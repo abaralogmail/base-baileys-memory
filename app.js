@@ -8,7 +8,7 @@ const run = require('./mensajes/logica')
 
 
 const flowWelcome = addKeyword(EVENTS.WELCOME)
-    .addAnswer('🙌 Hola bienvenido a este *Chatbot*')
+ //   .addAnswer('🙌 Hola bienvenido a este *Chatbot*')
 
 //.addAction(async (ctx, { flowDynamic, state }) => {
 /*    .addAnswer('hola',async (ctx, { flowDynamic, state }) => {
@@ -51,11 +51,15 @@ const flowPrincipal = addKeyword(EVENTS.WELCOME)
                 role: 'user',
                 content: ctx.body
             })
+            console.log(`[ctx.body]:`,ctx.body);
             const largeResponse = await run(ctx, newHistory)
-            //   console.log(`[RESPONSE]:`,largeResponse);
+               console.log(`[RESPONSE]:`,largeResponse);
             const chunks = largeResponse.split(/(?<!\d)\.\s+/g);
             for (const chunk of chunks) {
+                //setTimeout(function() { console.log(5000);}, 5000);
+
                 await flowDynamic(chunk)
+
             }
 
             newHistory.push({

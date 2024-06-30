@@ -2,29 +2,25 @@
   key: {
     remoteJid: '5493812010781@s.whatsapp.net',
     fromMe: false,
-    id: '1926126C8E45A21A5F',
+    id: '83788064718F8E2DB8',
     participant: undefined
   },
-  messageTimestamp: 1719157094,
+  messageTimestamp: 1719772808,
   pushName: 'Augusto Baralo',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'buenas, soy de tucuman',
-      contextInfo: [ContextInfo]
-    },
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  verifiedBizName: 'Augusto Baralo',
-  body: 'buenas, soy de tucuman',
+  body: 'hola',
   from: '5493812010781'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_431f2793-2e24-4576-8304-9183192662dd',
-  keyword: 'key_0d8ba75b-36c6-40a1-bda9-9e72466a5078',
+  ref: 'ans_aa91e30f-3b3b-41ed-a863-2d3184d3fab6',
+  keyword: 'key_118680b9-7557-40bf-932c-2585a2a75ff8',
   answer: '__call_action__',
   options: {
     media: null,
@@ -38,335 +34,25 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'eb9e788286b478dc1144499542cca564'
+  refSerialize: '86e30eb78bd4ca07e3e6fdad5b6032a8'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5493812010781@s.whatsapp.net',
     fromMe: false,
-    id: 'E3950BCE6DF0349F16',
+    id: '69973B979D7234A6CF',
     participant: undefined
   },
-  messageTimestamp: 1719157126,
+  messageTimestamp: 1719772922,
   pushName: 'Augusto Baralo',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'cursos', contextInfo: [ContextInfo] },
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  verifiedBizName: 'Augusto Baralo',
-  body: 'cursos',
+  body: 'hola',
   from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_431f2793-2e24-4576-8304-9183192662dd',
-  keyword: 'key_0d8ba75b-36c6-40a1-bda9-9e72466a5078',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'eb9e788286b478dc1144499542cca564'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: 'DF29F28DBEAAA53F31',
-    participant: undefined
-  },
-  messageTimestamp: 1719157155,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'si por favor',
-      contextInfo: [ContextInfo]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'Augusto Baralo',
-  body: 'si por favor',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_431f2793-2e24-4576-8304-9183192662dd',
-  keyword: 'key_0d8ba75b-36c6-40a1-bda9-9e72466a5078',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'eb9e788286b478dc1144499542cca564'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: '59F864C91193C36966',
-    participant: undefined
-  },
-  messageTimestamp: 1719157336,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'recibes tarjeta de crédito?',
-      contextInfo: [ContextInfo]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'Augusto Baralo',
-  body: 'recibes tarjeta de crédito?',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_431f2793-2e24-4576-8304-9183192662dd',
-  keyword: 'key_0d8ba75b-36c6-40a1-bda9-9e72466a5078',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'eb9e788286b478dc1144499542cca564'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: 'AC7FC3C3D780B08993',
-    participant: undefined
-  },
-  messageTimestamp: 1719157350,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'que tarjeta?',
-      contextInfo: [ContextInfo]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'Augusto Baralo',
-  body: 'que tarjeta?',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_431f2793-2e24-4576-8304-9183192662dd',
-  keyword: 'key_0d8ba75b-36c6-40a1-bda9-9e72466a5078',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'eb9e788286b478dc1144499542cca564'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: '115FAA29E33D0E190F',
-    participant: undefined
-  },
-  messageTimestamp: 1719157363,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'si por favor',
-      contextInfo: [ContextInfo]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'Augusto Baralo',
-  body: 'si por favor',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_431f2793-2e24-4576-8304-9183192662dd',
-  keyword: 'key_0d8ba75b-36c6-40a1-bda9-9e72466a5078',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'eb9e788286b478dc1144499542cca564'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: 'E29A92F964A27098C1',
-    participant: undefined
-  },
-  messageTimestamp: 1719157382,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'mercado pago',
-      contextInfo: [ContextInfo]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'Augusto Baralo',
-  body: 'mercado pago',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_431f2793-2e24-4576-8304-9183192662dd',
-  keyword: 'key_0d8ba75b-36c6-40a1-bda9-9e72466a5078',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'eb9e788286b478dc1144499542cca564'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: '279D9286D4563EF049',
-    participant: undefined
-  },
-  messageTimestamp: 1719157393,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'precio?', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'Augusto Baralo',
-  body: 'precio?',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_431f2793-2e24-4576-8304-9183192662dd',
-  keyword: 'key_0d8ba75b-36c6-40a1-bda9-9e72466a5078',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'eb9e788286b478dc1144499542cca564'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: '4B157715FA99783321',
-    participant: undefined
-  },
-  messageTimestamp: 1719157409,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'cual es el monto aproximado',
-      contextInfo: [ContextInfo]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'Augusto Baralo',
-  body: 'cual es el monto aproximado',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_431f2793-2e24-4576-8304-9183192662dd',
-  keyword: 'key_0d8ba75b-36c6-40a1-bda9-9e72466a5078',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'eb9e788286b478dc1144499542cca564'
 }
