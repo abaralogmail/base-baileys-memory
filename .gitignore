@@ -5,5 +5,4 @@ db.json
 .env
 queue.class.log
 core.class.log
-core.class.log
-queue.class.log
+

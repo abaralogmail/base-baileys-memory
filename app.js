@@ -8,6 +8,14 @@ const fs = require('fs').promises
 let blockedUsers = new Set();
 const BLOCKED_USERS_FILE = 'blocked_users.json';
 
+const flowOperador = addKeyword(['operadora'])
+    .addAnswer('El asistente virtual ha sido desactivado. Para reactivarlo, escribe "asistente".')
+
+const flowAsistente = addKeyword(['chat'])
+    .addAnswer('El asistente virtual ha sido reactivado.')
+    
+
+
 // Función para cargar usuarios bloqueados desde el archivo
 const loadBlockedUsers = async () => {
     try {
@@ -32,12 +40,12 @@ const saveBlockedUsers = async () => {
 // Función para manejar el bloqueo y desbloqueo de usuarios
 const handleBlockUnblock = async (ctx, flowDynamic) => {
     const userId = ctx.from;
-    if (ctx.body === '.') {
+    if (ctx.body === 'operadora') {
         blockedUsers.add(userId);
         await saveBlockedUsers();
-        await flowDynamic('Has pausado el chat. Envía ".." para reanudar.');
+        await flowDynamic('Has pausado el asistente virtual. Envía "chat" para reanudar.');
         return true;
-    } else if (ctx.body === '..') {
+    } else if (ctx.body === 'chat') {
         blockedUsers.delete(userId);
         await saveBlockedUsers();
         await flowDynamic('Has reanudado el chat.');
