@@ -2,6 +2,8 @@ const { createBot, createProvider, createFlow, addKeyword, EVENTS } = require('@
 const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const JsonFileAdapter = require('@bot-whatsapp/database/json')
+const sendBulkMessages = require('./mensajes/sendBulkMessages');
+
 const run = require('./mensajes/logica')
 const fs = require('fs').promises
 
@@ -79,7 +81,7 @@ const flowPrincipal = addKeyword(EVENTS.WELCOME)
                 console.log(`[RESPONSE]:`, largeResponse);
 
                 const chunks = largeResponse.split(/(?<!\d)\.\s+/g);
-                sendChunksWithDelay(chunks, 2000, userId, flowDynamic);
+                sendChunksWithDelay(chunks, 5000, userId, flowDynamic);
 
                 newHistory.push({ role: 'assistant', content: largeResponse })
                 await state.update({ history: newHistory })

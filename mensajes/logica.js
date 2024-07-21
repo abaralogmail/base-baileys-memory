@@ -62,7 +62,7 @@ const run =  async (ctx, history) => {
         "question": history[history.length - 1].content,
    //     "context": history,
         "overrideConfig": {
-            "sessionId": ctx.from+2,
+            "sessionId": ctx.from,
             "returnSourceDocuments": true
         }
     };
@@ -81,9 +81,5 @@ const run =  async (ctx, history) => {
     
         return queryResponse.text;
     }
-
-
-    
-
 
 module.exports = run;
