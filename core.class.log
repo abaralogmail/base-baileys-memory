@@ -2,25 +2,25 @@
   key: {
     remoteJid: '5493812010781@s.whatsapp.net',
     fromMe: false,
-    id: 'C07E28A8D9026AF584',
+    id: 'AFD88D075CCF8B1909',
     participant: undefined
   },
-  messageTimestamp: 1721672469,
+  messageTimestamp: 1721765663,
   pushName: 'Augusto Baralo',
   broadcast: false,
   message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'enviar', contextInfo: [ContextInfo] },
+    extendedTextMessage: ExtendedTextMessage { text: 'hola', contextInfo: [ContextInfo] },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'enviar',
+  body: 'hola',
   from: '5493812010781'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_ab39b12d-389b-43f5-b86b-aa9c798a2a9b',
-  keyword: 'key_d5fa1205-6458-4719-879a-7bad5e5328bc',
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
   answer: '__call_action__',
   options: {
     media: null,
@@ -34,2182 +34,29 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '5f026fd7813ef41fa3ad356c71d5785e'
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5493875686945@s.whatsapp.net',
+    remoteJid: '5493875805400@s.whatsapp.net',
     fromMe: false,
-    id: '52839E3EAEBAD8D14CB91ADD9F5B4FF2',
+    id: '7CCF4E881BEAA4D8860DDEE0B801395E',
     participant: undefined
   },
-  messageTimestamp: 1721673160,
-  pushName: 'Victor',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage { key: [MessageKey], type: 0 },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  from: '5493875686945'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: '48AC6262B60B79D8C1',
-    participant: undefined
-  },
-  messageTimestamp: 1721674046,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'enviar', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'enviar',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_ab39b12d-389b-43f5-b86b-aa9c798a2a9b',
-  keyword: 'key_d5fa1205-6458-4719-879a-7bad5e5328bc',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '5f026fd7813ef41fa3ad356c71d5785e'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: 'DB58B05A0C2CB77D4B',
-    participant: undefined
-  },
-  messageTimestamp: 1721674687,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'enviar', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'enviar',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_ab39b12d-389b-43f5-b86b-aa9c798a2a9b',
-  keyword: 'key_d5fa1205-6458-4719-879a-7bad5e5328bc',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '5f026fd7813ef41fa3ad356c71d5785e'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: 'FD6ED84C9718D461F9',
-    participant: undefined
-  },
-  messageTimestamp: 1721674713,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'enviado', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'enviado',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: '3EA46260DBFF3EB48E',
-    participant: undefined
-  },
-  messageTimestamp: 1721674728,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'enviar', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'enviar',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_ab39b12d-389b-43f5-b86b-aa9c798a2a9b',
-  keyword: 'key_d5fa1205-6458-4719-879a-7bad5e5328bc',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '5f026fd7813ef41fa3ad356c71d5785e'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: 'F1F3F3DFC67328888E',
-    participant: undefined
-  },
-  messageTimestamp: 1721674854,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'enviar', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'enviar',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_ab39b12d-389b-43f5-b86b-aa9c798a2a9b',
-  keyword: 'key_d5fa1205-6458-4719-879a-7bad5e5328bc',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '5f026fd7813ef41fa3ad356c71d5785e'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: '913ADB83727FDC9E6D',
-    participant: undefined
-  },
-  messageTimestamp: 1721674889,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'enviar', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'enviar',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_ab39b12d-389b-43f5-b86b-aa9c798a2a9b',
-  keyword: 'key_d5fa1205-6458-4719-879a-7bad5e5328bc',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '5f026fd7813ef41fa3ad356c71d5785e'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: '1D1C52FD6B911F0632',
-    participant: undefined
-  },
-  messageTimestamp: 1721675042,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'enviar', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'enviar',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_ab39b12d-389b-43f5-b86b-aa9c798a2a9b',
-  keyword: 'key_d5fa1205-6458-4719-879a-7bad5e5328bc',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '5f026fd7813ef41fa3ad356c71d5785e'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: '6D90780E623AD7AC87',
-    participant: undefined
-  },
-  messageTimestamp: 1721675303,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'enviar', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'enviar',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_ab39b12d-389b-43f5-b86b-aa9c798a2a9b',
-  keyword: 'key_d5fa1205-6458-4719-879a-7bad5e5328bc',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '5f026fd7813ef41fa3ad356c71d5785e'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: '1B8D1954EBFB65184E',
-    participant: undefined
-  },
-  messageTimestamp: 1721675458,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'enviar', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'enviar',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_ab39b12d-389b-43f5-b86b-aa9c798a2a9b',
-  keyword: 'key_d5fa1205-6458-4719-879a-7bad5e5328bc',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '5f026fd7813ef41fa3ad356c71d5785e'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493815908557@s.whatsapp.net',
-    fromMe: false,
-    id: '11CBDFB3881DABBDC0',
-    participant: undefined
-  },
-  messageTimestamp: 1721676013,
-  pushName: 'ceridono.ar Consultas Online',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'buenas tardes\n\n387 479-0769 Marcelo Cariaga por CURSOR',
-      contextInfo: [ContextInfo]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'buenas tardes\n\n387 479-0769 Marcelo Cariaga por CURSOR',
-  from: '5493815908557'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493815908557@s.whatsapp.net',
-    fromMe: false,
-    id: 'CBF4EB5238BD666D2A',
-    participant: undefined
-  },
-  messageTimestamp: 1721676034,
-  pushName: 'ceridono.ar Consultas Online',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: '387 410-1632 Emanuel Vallejos por cursos',
-      contextInfo: [ContextInfo]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '387 410-1632 Emanuel Vallejos por cursos',
-  from: '5493815908557'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874790769@s.whatsapp.net',
-    fromMe: false,
-    id: '2EF314D483D7DB67DBF8BD8D76C539FC',
-    participant: undefined
-  },
-  messageTimestamp: 1721676148,
-  pushName: 'marcelo cariaga',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola....',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola....',
-  from: '5493874790769'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874790769@s.whatsapp.net',
-    fromMe: false,
-    id: '6265AE1CBF58F6B35CD7C733634B0EBD',
-    participant: undefined
-  },
-  messageTimestamp: 1721676163,
-  pushName: 'marcelo cariaga',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Hola Ceridono! Soy Marcelo Cariaga\n' +
-        'Producto: [CURSOR] Curso de Mantenimiento y reparación de heladeras y freezers domiciliarios convencionales\n' +
-        'Consulta: El precio total del curso es 135.000 a este po puedo hacer en 3 cuotas iguales, cuando comienzan y horarios, duracion.........\n' +
-        'https://www.ceridono.ar/tienda/?id=Y2Vpag==',
-      matchedText: 'https://www.ceridono.ar/tienda/?id=Y2Vpag==',
-      canonicalUrl: 'https://www.ceridono.ar/tienda/?id=Y2Vpag==',
-      description: '$135.000 | Ceridono / Nivel Inicial. Ideal para iniciar en el rubro. Aprenda todo lo necesario para realizar mantenimiento y reparación de heladeras domiciliarias y freezers convencionales',
-      title: 'CERIDONO | Curso de Mantenimiento y reparación de heladeras y freezers domiciliarios convencionales $135.000',
-      previewType: 0,
-      jpegThumbnail: [Uint8Array],
-      thumbnailDirectPath: '/v/t62.36144-24/13784243_505694941832224_8117281639585239062_n.enc?ccb=11-4&oh=01_Q5AaIHS9D01L7EMdfZqVzZx3uv19Ki1OflmtfuXF1j7hyki8&oe=66C62440&_nc_sid=5e03e0',
-      thumbnailSha256: [Uint8Array],
-      thumbnailEncSha256: [Uint8Array],
-      mediaKey: [Uint8Array],
-      mediaKeyTimestamp: [Long],
-      thumbnailHeight: 1024,
-      thumbnailWidth: 1024,
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2,
-      messageSecret: [Uint8Array]
-    }
-  },
-  body: 'Hola Ceridono! Soy Marcelo Cariaga\n' +
-    'Producto: [CURSOR] Curso de Mantenimiento y reparación de heladeras y freezers domiciliarios convencionales\n' +
-    'Consulta: El precio total del curso es 135.000 a este po puedo hacer en 3 cuotas iguales, cuando comienzan y horarios, duracion.........\n' +
-    'https://www.ceridono.ar/tienda/?id=Y2Vpag==',
-  from: '5493874790769'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874790769@s.whatsapp.net',
-    fromMe: false,
-    id: '680AB19FB9CC79D81E98A2A425D130BA',
-    participant: undefined
-  },
-  messageTimestamp: 1721676462,
-  pushName: 'marcelo cariaga',
-  broadcast: false,
-  message: Message {
-    conversation: 'No me salen los horarios y dias.......???',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'No me salen los horarios y dias.......???',
-  from: '5493874790769'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: '9A1ED214C8707EFA06808F2429E65202',
-    participant: undefined
-  },
-  messageTimestamp: 1721677755,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [Array],
-      url: 'https://mmg.whatsapp.net/v/t62.7118-24/12101762_431276819909301_3323028307048987666_n.enc?ccb=11-4&oh=01_Q5AaIEYp6sj9m0z6ELRNloiWH_lLt7jpX3eZKkveB7HeRQez&oe=66C63245&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'image/jpeg',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 1600,
-      width: 720,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7118-24/12101762_431276819909301_3323028307048987666_n.enc?ccb=11-4&oh=01_Q5AaIEYp6sj9m0z6ELRNloiWH_lLt7jpX3eZKkveB7HeRQez&oe=66C63245&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array],
-      scansSidecar: [Uint8Array],
-      midQualityFileSha256: [Uint8Array]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '_event_media__f13f85a4-8ede-4dc9-a153-d1e2dbb6c660',
-  from: '5493876337055'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: '4C02E465867B5869197BF3AAE0EA177D',
-    participant: undefined
-  },
-  messageTimestamp: 1721677766,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buenas tardes ya abone el curso',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Buenas tardes ya abone el curso',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: 'C4A22E30852BBDFBDE42C3B9EB431509',
-    participant: undefined
-  },
-  messageTimestamp: 1721677807,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: 'La tranferencia salio a nombre de luciano ontiveros',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'La tranferencia salio a nombre de luciano ontiveros',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: '7AF9F8FBD8FE9F58CBCF6DC2E41DBF22',
-    participant: undefined
-  },
-  messageTimestamp: 1721677814,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Eso era todo?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Eso era todo?',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: '3CB5292B8F80F01617311B7BF232E64F',
-    participant: undefined
-  },
-  messageTimestamp: 1721677893,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Comienza el 9?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Comienza el 9?',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875020096@s.whatsapp.net',
-    fromMe: false,
-    id: '6F32FF992C5AB31F7FD77A930DD987D5',
-    participant: undefined
-  },
-  messageTimestamp: 1721677918,
-  pushName: 'Ale Albo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buena stardes disculpe',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Buena stardes disculpe',
-  from: '5493875020096'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875020096@s.whatsapp.net',
-    fromMe: false,
-    id: '5E58FBDB9392AD12C50DE58FB02E7A4E',
-    participant: undefined
-  },
-  messageTimestamp: 1721677943,
-  pushName: 'Ale Albo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hasta cuando reciben el pago para renovar la matricula ?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hasta cuando reciben el pago para renovar la matricula ?',
-  from: '5493875020096'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875020096@s.whatsapp.net',
-    fromMe: false,
-    id: '74CC751DEABCECB5BDD48D17F281D1BE',
-    participant: undefined
-  },
-  messageTimestamp: 1721677979,
-  pushName: 'Ale Albo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Cuanto esta ahora?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Cuanto esta ahora?',
-  from: '5493875020096'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875020096@s.whatsapp.net',
-    fromMe: false,
-    id: '2F91AF91D2B01360B364253AF27EC13C',
-    participant: undefined
-  },
-  messageTimestamp: 1721677988,
-  pushName: 'Ale Albo',
-  broadcast: false,
-  message: Message {
-    conversation: 'A mi se me vence ahora e agosto',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'A mi se me vence ahora e agosto',
-  from: '5493875020096'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875020096@s.whatsapp.net',
-    fromMe: false,
-    id: '936012D9B8E80845395B5521D282BF61',
-    participant: undefined
-  },
-  messageTimestamp: 1721678110,
-  pushName: 'Ale Albo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Con quien contacto?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Con quien contacto?',
-  from: '5493875020096'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874101632@s.whatsapp.net',
-    fromMe: false,
-    id: 'C878826BDCB57C71D65DADB91C57B1A3',
-    participant: undefined
-  },
-  messageTimestamp: 1721681328,
-  pushName: 'Emanuel Vallejos',
-  broadcast: false,
-  message: Message {
-    conversation: '?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '?',
-  from: '5493874101632'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
-    fromMe: false,
-    id: '4EB1952488E71C584ACD0BFFB70FB556',
-    participant: undefined
-  },
-  messageTimestamp: 1721692287,
-  pushName: 'Julio Mamani',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buenas noches, me gustaría inscribirme en el curso de reparación de lavarropas',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Buenas noches, me gustaría inscribirme en el curso de reparación de lavarropas',
-  from: '5493757445564'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0cde4ffc-4949-4da7-8cb7-53d7f6c84f32',
-  keyword: 'key_b29113ff-da2c-468b-844d-c68e8045a5f7',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'f1f96b4dc6c3e603441b2326155102eb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
-    fromMe: false,
-    id: '98A9303F77F05AF60EB7985069B54778',
-    participant: undefined
-  },
-  messageTimestamp: 1721692300,
-  pushName: 'Julio Mamani',
-  broadcast: false,
-  message: Message {
-    conversation: 'Asistente',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Asistente',
-  from: '5493757445564'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_335ef096-48f3-4051-ba85-6e4c56dda4cd',
-  keyword: 'key_9df98b74-d351-4894-b9de-556d87abc62a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '9a3a0f2eda95d3c7645adfc2e94bebf4'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
-    fromMe: false,
-    id: '4997A8F26B8C4688D8034083024E7A3F',
-    participant: undefined
-  },
-  messageTimestamp: 1721692324,
-  pushName: 'Julio Mamani',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buenas noches me gustaría inscribirme al curso de reparación de lavarropas',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Buenas noches me gustaría inscribirme al curso de reparación de lavarropas',
-  from: '5493757445564'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0cde4ffc-4949-4da7-8cb7-53d7f6c84f32',
-  keyword: 'key_b29113ff-da2c-468b-844d-c68e8045a5f7',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'f1f96b4dc6c3e603441b2326155102eb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493872272786@s.whatsapp.net',
-    fromMe: false,
-    id: '1139314DCF037616522CA3C9C1F41A43',
-    participant: undefined
-  },
-  messageTimestamp: 1721700240,
-  pushName: 'Juan Cardozo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: '💯',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '💯',
-  from: '5493872272786'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876854420@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0B650B1B881A5C40835',
-    participant: undefined
-  },
-  messageTimestamp: 1721734507,
-  pushName: 'Diego',
-  broadcast: false,
-  message: Message {
-    conversation: 'operadora',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'operadora',
-  from: '5493876854420'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0cde4ffc-4949-4da7-8cb7-53d7f6c84f32',
-  keyword: 'key_b29113ff-da2c-468b-844d-c68e8045a5f7',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'f1f96b4dc6c3e603441b2326155102eb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876854420@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB068C8FB0BCB8D86EAEF',
-    participant: undefined
-  },
-  messageTimestamp: 1721734535,
-  pushName: 'Diego',
-  broadcast: false,
-  message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [],
-      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-44eeb584-5d5c-4add-ba87-a89bf317e1f8?ccb=9-4&oh=01_Q5AaIEHOefCKLWkbtTlMgLBBvWRZsalDZjzM6k_4dHDjnwn9&oe=66C682DC&_nc_sid=000000&mms3=true',
-      mimetype: 'image/jpeg',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 556,
-      width: 476,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/o1/v/t62.7118-24/f1/m269/up-oil-image-44eeb584-5d5c-4add-ba87-a89bf317e1f8?ccb=9-4&oh=01_Q5AaIEHOefCKLWkbtTlMgLBBvWRZsalDZjzM6k_4dHDjnwn9&oe=66C682DC&_nc_sid=000000',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array],
-      contextInfo: [ContextInfo],
-      viewOnce: false
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '_event_media__0dd9db0b-0ffc-47f6-9730-c28da2b138fd',
-  from: '5493876854420'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876854420@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0CFB596C4D82D76CC78',
-    participant: undefined
-  },
-  messageTimestamp: 1721734535,
-  pushName: 'Diego',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buenos dias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Buenos dias',
-  from: '5493876854420'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876854420@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0DAA077195FBE2BD3AE',
-    participant: undefined
-  },
-  messageTimestamp: 1721734606,
-  pushName: 'Diego',
-  broadcast: false,
-  message: Message {
-    conversation: 'mcuhas gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'mcuhas gracias',
-  from: '5493876854420'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876854420@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB03CBB5ED0D18C5D35E7',
-    participant: undefined
-  },
-  messageTimestamp: 1721734616,
-  pushName: 'Diego',
-  broadcast: false,
-  message: Message {
-    conversation: 'Tambien necesito hacer el pago para mi hijo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Tambien necesito hacer el pago para mi hijo',
-  from: '5493876854420'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876854420@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB04DE8F613EA5CD0A70B',
-    participant: undefined
-  },
-  messageTimestamp: 1721734638,
-  pushName: 'Diego',
-  broadcast: false,
-  message: Message {
-    conversation: 'dni 41445823 Luciano Gramajo, pero hasta anoche no me salia como tecnico amigo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  status: 4,
-  body: 'dni 41445823 Luciano Gramajo, pero hasta anoche no me salia como tecnico amigo',
-  from: '5493876854420'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876854420@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0FA90069F682D77F499',
-    participant: undefined
-  },
-  messageTimestamp: 1721734751,
-  pushName: 'Diego',
-  broadcast: false,
-  message: Message {
-    conversation: 'muchas gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'muchas gracias',
-  from: '5493876854420'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493878344613@s.whatsapp.net',
-    fromMe: false,
-    id: '89AA37289A908DBE5BD3E892897D72C2',
-    participant: undefined
-  },
-  messageTimestamp: 1721734969,
-  pushName: 'Luciano Gramajo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola buenos días, si si el nomás lo compra',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola buenos días, si si el nomás lo compra',
-  from: '5493878344613'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876854420@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0344785B37A3A0E6C1C',
-    participant: undefined
-  },
-  messageTimestamp: 1721734975,
-  pushName: 'Diego',
-  broadcast: false,
-  message: Message {
-    conversation: 'muchas gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'muchas gracias',
-  from: '5493876854420'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493878344613@s.whatsapp.net',
-    fromMe: false,
-    id: 'E6BDA5FAED76B34779F275CF67B15C62',
-    participant: undefined
-  },
-  messageTimestamp: 1721735474,
-  pushName: 'Luciano Gramajo',
-  broadcast: false,
-  message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [],
-      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-a8005bf7-1ad1-4da3-b59c-c16128a6666e?ccb=9-4&oh=01_Q5AaIHyLYRaJyWHMdB2p52YDJ9lMmXs_MBovTz9vp_uVyxrg&oe=66C6F52C&_nc_sid=000000&mms3=true',
-      mimetype: 'image/jpeg',
-      caption: 'MANDALE A LA CHICA VIEJITO',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 582,
-      width: 490,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/o1/v/t62.7118-24/f1/m235/up-oil-image-a8005bf7-1ad1-4da3-b59c-c16128a6666e?ccb=9-4&oh=01_Q5AaIHyLYRaJyWHMdB2p52YDJ9lMmXs_MBovTz9vp_uVyxrg&oe=66C6F52C&_nc_sid=000000&_nc_hot=1721735474',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array],
-      contextInfo: [ContextInfo]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '_event_media__6bf11db4-52ff-45ab-b2f3-c633ead148ac',
-  from: '5493878344613'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493878344613@s.whatsapp.net',
-    fromMe: false,
-    id: '765473832B9EB77F9F921308BA5E9211',
-    participant: undefined
-  },
-  messageTimestamp: 1721735480,
-  pushName: 'Luciano Gramajo',
-  broadcast: false,
-  message: Message {
-    protocolMessage: ProtocolMessage { key: [MessageKey], type: 0 },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '',
-  from: '5493878344613'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493878344613@s.whatsapp.net',
-    fromMe: false,
-    id: 'D30250B8A33F875D4D8C944405F84D6C',
-    participant: undefined
-  },
-  messageTimestamp: 1721735511,
-  pushName: 'Luciano Gramajo',
-  broadcast: false,
-  message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [],
-      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-a8005bf7-1ad1-4da3-b59c-c16128a6666e?ccb=9-4&oh=01_Q5AaIHyLYRaJyWHMdB2p52YDJ9lMmXs_MBovTz9vp_uVyxrg&oe=66C6F52C&_nc_sid=000000&mms3=true',
-      mimetype: 'image/jpeg',
-      caption: 'Reenvío el pago del curso',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 582,
-      width: 490,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/o1/v/t62.7118-24/f1/m235/up-oil-image-a8005bf7-1ad1-4da3-b59c-c16128a6666e?ccb=9-4&oh=01_Q5AaIHyLYRaJyWHMdB2p52YDJ9lMmXs_MBovTz9vp_uVyxrg&oe=66C6F52C&_nc_sid=000000',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '_event_media__77959572-7c3a-4f36-b05c-03e0bb10c748',
-  from: '5493878344613'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875820424@s.whatsapp.net',
-    fromMe: false,
-    id: '2B06119C30D63C808283C2353345050A',
-    participant: undefined
-  },
-  messageTimestamp: 1721735590,
-  pushName: 'Refriplastsalta',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Hola buenos días muchas gracias por la info',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'Refriplastsalta',
-  body: 'Hola buenos días muchas gracias por la info',
-  from: '5493875820424'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875820424@s.whatsapp.net',
-    fromMe: false,
-    id: '973B4A95861571E9B959C7E8EB7CF25D',
-    participant: undefined
-  },
-  messageTimestamp: 1721735650,
-  pushName: 'Refriplastsalta',
-  broadcast: false,
-  message: Message {
-    conversation: 'Mire estaba viendo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Mire estaba viendo',
-  from: '5493875820424'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875820424@s.whatsapp.net',
-    fromMe: false,
-    id: 'AC964BC8BB7CED381071A16546DC28E3',
-    participant: undefined
-  },
-  messageTimestamp: 1721735653,
-  pushName: 'Refriplastsalta',
-  broadcast: false,
-  message: Message {
-    conversation: 'Veo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Veo',
-  from: '5493875820424'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875820424@s.whatsapp.net',
-    fromMe: false,
-    id: 'B20F9873C6850A8769ECA3239213412F',
-    participant: undefined
-  },
-  messageTimestamp: 1721735672,
-  pushName: 'Refriplastsalta',
-  broadcast: false,
-  message: Message {
-    conversation: 'Reparación en inverter',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Reparación en inverter',
-  from: '5493875820424'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875820424@s.whatsapp.net',
-    fromMe: false,
-    id: '548FF22892A4ADB7C1912667A468338C',
-    participant: undefined
-  },
-  messageTimestamp: 1721735681,
-  pushName: 'Refriplastsalta',
-  broadcast: false,
-  message: Message {
-    conversation: 'Veo que no tienen',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Veo que no tienen',
-  from: '5493875820424'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493878344613@s.whatsapp.net',
-    fromMe: false,
-    id: '3A64D71770067DA9E5B576B61F0ADC5E',
-    participant: undefined
-  },
-  messageTimestamp: 1721735877,
-  pushName: 'Luciano Gramajo',
-  broadcast: false,
-  message: Message {
-    conversation: 'De diez, gracias a vos',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'De diez, gracias a vos',
-  from: '5493878344613'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875820424@s.whatsapp.net',
-    fromMe: false,
-    id: '7D029BF659D5CF5CFCB90C61F6B46FB8',
-    participant: undefined
-  },
-  messageTimestamp: 1721735976,
-  pushName: 'Refriplastsalta',
-  broadcast: false,
-  message: Message {
-    conversation: 'Muchas gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Muchas gracias',
-  from: '5493875820424'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874684052@s.whatsapp.net',
-    fromMe: false,
-    id: '6A1297A4A9A7B1676447B0D5D0A3B0A1',
-    participant: undefined
-  },
-  messageTimestamp: 1721736330,
-  pushName: 'Franco',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buen día',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Buen día',
-  from: '5493874684052'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874684052@s.whatsapp.net',
-    fromMe: false,
-    id: 'CECA5CDA8A15F924A3282C954A181103',
-    participant: undefined
-  },
-  messageTimestamp: 1721736357,
-  pushName: 'Franco',
-  broadcast: false,
-  message: Message {
-    conversation: 'Si no tendría problema el sábado pero si es por la tarde mejor',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Si no tendría problema el sábado pero si es por la tarde mejor',
-  from: '5493874684052'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493886454659@s.whatsapp.net',
-    fromMe: false,
-    id: 'BF538C70AFB336AD8028806325AF9F34',
-    participant: undefined
-  },
-  messageTimestamp: 1721736597,
-  pushName: 'Javier Eduardo Muñoz',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Buenos días',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Buenos días',
-  from: '5493886454659'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493886454659@s.whatsapp.net',
-    fromMe: false,
-    id: '7E67B8177239398021599FB2A7226150',
-    participant: undefined
-  },
-  messageTimestamp: 1721736597,
-  pushName: 'Javier Eduardo Muñoz',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Como estas',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Como estas',
-  from: '5493886454659'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493886454659@s.whatsapp.net',
-    fromMe: false,
-    id: '2967DFEFE211CE9E428E91488E649813',
-    participant: undefined
-  },
-  messageTimestamp: 1721736605,
-  pushName: 'Javier Eduardo Muñoz',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Si sabes q estoy interesad9 en\n' +
-        '15 bomba de desgaste\n' +
-        '10 seguro puerta drean blue',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Si sabes q estoy interesad9 en\n' +
-    '15 bomba de desgaste\n' +
-    '10 seguro puerta drean blue',
-  from: '5493886454659'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493886454659@s.whatsapp.net',
-    fromMe: false,
-    id: '7440B6E2AAED095154D6CA07DA2B93F7',
-    participant: undefined
-  },
-  messageTimestamp: 1721736665,
-  pushName: 'Javier Eduardo Muñoz',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Bien gracias',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Bien gracias',
-  from: '5493886454659'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493886454659@s.whatsapp.net',
-    fromMe: false,
-    id: '650D2381F0D9D8F86CE19EC7C65BB44D',
-    participant: undefined
-  },
-  messageTimestamp: 1721736716,
-  pushName: 'Javier Eduardo Muñoz',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Igualmente 👍🏽',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Igualmente 👍🏽',
-  from: '5493886454659'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875107150@s.whatsapp.net',
-    fromMe: false,
-    id: 'E73FF7D08B4302DB1946EFE3FA7A3FDC',
-    participant: undefined
-  },
-  messageTimestamp: 1721737364,
-  pushName: 'SanTiiNo 🍀🍀🍀',
+  messageTimestamp: 1721765741,
+  pushName: 'Diego Andia',
   broadcast: false,
   message: Message {
     audioMessage: AudioMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.7117-24/33361445_404987509258160_820930660408337777_n.enc?ccb=11-4&oh=01_Q5AaIOcu3hLRvywztftfZZ5YftwNThyyhabRmjNK6Fyaf5l9&oe=66C703C4&_nc_sid=5e03e0&mms3=true',
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/19156021_1483871528888389_8031863016539180460_n.enc?ccb=11-4&oh=01_Q5AaIECXidN7m9JnusSoXxHaphhAqNJjtkK9UR88dZjJr-Tj&oe=66C77C6E&_nc_sid=5e03e0&mms3=true',
       mimetype: 'audio/ogg; codecs=opus',
       fileSha256: [Uint8Array],
       fileLength: [Long],
-      seconds: 4,
+      seconds: 9,
       ptt: true,
       mediaKey: [Uint8Array],
       fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7117-24/33361445_404987509258160_820930660408337777_n.enc?ccb=11-4&oh=01_Q5AaIOcu3hLRvywztftfZZ5YftwNThyyhabRmjNK6Fyaf5l9&oe=66C703C4&_nc_sid=5e03e0',
+      directPath: '/v/t62.7117-24/19156021_1483871528888389_8031863016539180460_n.enc?ccb=11-4&oh=01_Q5AaIECXidN7m9JnusSoXxHaphhAqNJjtkK9UR88dZjJr-Tj&oe=66C77C6E&_nc_sid=5e03e0',
       mediaKeyTimestamp: [Long],
       waveform: [Uint8Array]
     },
@@ -2218,32 +65,32 @@
       deviceListMetadataVersion: 2
     }
   },
-  body: '_event_voice_note__94fb147e-0e76-483b-9944-7c3ef470da73',
-  from: '5493875107150'
+  body: '_event_voice_note__7575d31e-8d3b-4bd1-aeca-915a40cd47a0',
+  from: '5493875805400'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
+    remoteJid: '5493812010781@s.whatsapp.net',
     fromMe: false,
-    id: 'E7647B4E93EDDE36D6404255F8EA53E9',
+    id: 'C26958D296B51263F3',
     participant: undefined
   },
-  messageTimestamp: 1721738536,
-  pushName: 'Anabel',
+  messageTimestamp: 1721765745,
+  pushName: 'Augusto Baralo',
   broadcast: false,
   message: Message {
-    conversation: 'Ok gracias',
+    extendedTextMessage: ExtendedTextMessage { text: 'cursos', contextInfo: [ContextInfo] },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Ok gracias',
-  from: '5493876337055'
+  body: 'cursos',
+  from: '5493812010781'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
   answer: '__call_action__',
   options: {
     media: null,
@@ -2257,421 +104,21 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
+    remoteJid: '5493812010781@s.whatsapp.net',
     fromMe: false,
-    id: '2044A4AAB73A58AEDD745D9744682CA3',
+    id: 'F2028D17E741327683',
     participant: undefined
   },
-  messageTimestamp: 1721738554,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Para anotar a otra persona como hago?',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Para anotar a otra persona como hago?',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875741822@s.whatsapp.net',
-    fromMe: false,
-    id: 'A6554F36A77B5C846347A2E8C3CB5150',
-    participant: undefined
-  },
-  messageTimestamp: 1721738574,
-  pushName: 'Juarez  Ramiro',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buen día',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Buen día',
-  from: '5493875741822'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875741822@s.whatsapp.net',
-    fromMe: false,
-    id: '80E4CA984907E43232AF76E3B7D2F408',
-    participant: undefined
-  },
-  messageTimestamp: 1721738603,
-  pushName: 'Juarez  Ramiro',
-  broadcast: false,
-  message: Message {
-    conversation: 'Ok    pasao más  tarde  dale',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ok    pasao más  tarde  dale',
-  from: '5493875741822'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: 'E6C264084238FFD2A11E0B24E0EC8BB7',
-    participant: undefined
-  },
-  messageTimestamp: 1721738666,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Yo lo voy a hacer',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Yo lo voy a hacer',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: 'DD2A6A4FE20B18BBE5574EF261E46059',
-    participant: undefined
-  },
-  messageTimestamp: 1721738689,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Luciano jesus ontiveros',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Luciano jesus ontiveros',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: 'E209FF3A20F382CE6DA0C3EF24004D0B',
-    participant: undefined
-  },
-  messageTimestamp: 1721738728,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Operadora',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Operadora',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0cde4ffc-4949-4da7-8cb7-53d7f6c84f32',
-  keyword: 'key_b29113ff-da2c-468b-844d-c68e8045a5f7',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'f1f96b4dc6c3e603441b2326155102eb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: '541898984095780A4444D777074C78A9',
-    participant: undefined
-  },
-  messageTimestamp: 1721738769,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: '🚫',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '🚫',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: '6752A84A5371D3E29117B92FC2DB082E',
-    participant: undefined
-  },
-  messageTimestamp: 1721738800,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Ok yo lo registro ahi le. Aviso',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ok yo lo registro ahi le. Aviso',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874684052@s.whatsapp.net',
-    fromMe: false,
-    id: '6E2B61B68DB97C2885D9D632E45EF777',
-    participant: undefined
-  },
-  messageTimestamp: 1721739688,
-  pushName: 'Franco',
-  broadcast: false,
-  message: Message {
-    conversation: 'Dale avisame x favor',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Dale avisame x favor',
-  from: '5493874684052'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
-    fromMe: false,
-    id: 'BA765D0375FF18770D56086408DA4970',
-    participant: undefined
-  },
-  messageTimestamp: 1721739881,
-  pushName: 'Julio Mamani',
-  broadcast: false,
-  message: Message {
-    conversation: 'Tengo la tarjetas visa pero nación',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Tengo la tarjetas visa pero nación',
-  from: '5493757445564'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493815908557@s.whatsapp.net',
-    fromMe: false,
-    id: '76242CEEE57188BC03',
-    participant: undefined
-  },
-  messageTimestamp: 1721739979,
-  pushName: 'ceridono.ar Consultas Online',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'ok', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'ok',
-  from: '5493815908557'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493815908557@s.whatsapp.net',
-    fromMe: false,
-    id: '4AD5114D8895077B12',
-    participant: undefined
-  },
-  messageTimestamp: 1721739983,
-  pushName: 'ceridono.ar Consultas Online',
+  messageTimestamp: 1721765882,
+  pushName: 'Augusto Baralo',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: 'buen día',
+      text: 'lista de cursos',
       contextInfo: [ContextInfo]
     },
     messageContextInfo: MessageContextInfo {
@@ -2679,12 +126,12 @@
       deviceListMetadataVersion: 2
     }
   },
-  body: 'buen día',
-  from: '5493815908557'
+  body: 'lista de cursos',
+  from: '5493812010781'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
   answer: '__call_action__',
   options: {
     media: null,
@@ -2698,126 +145,59 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5493875218221@s.whatsapp.net',
+    remoteJid: '5493812010781@s.whatsapp.net',
     fromMe: false,
-    id: '3EB080329746118D0CEA1D',
+    id: '3BF6A878B8BFD3477E',
     participant: undefined
   },
-  messageTimestamp: 1721740020,
-  pushName: 'Ceridono',
+  messageTimestamp: 1721765907,
+  pushName: 'Augusto Baralo',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'split', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'split',
+  from: '5493812010781'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874664377@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7721FA22CBA999ACCE',
+    participant: undefined
+  },
+  messageTimestamp: 1721768076,
+  pushName: 'Tiago',
   broadcast: false,
   message: Message {
     extendedTextMessage: ExtendedTextMessage {
-      text: 'si recibimos',
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'Ceridono',
-  body: 'si recibimos',
-  from: '5493875218221'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493815908557@s.whatsapp.net',
-    fromMe: false,
-    id: 'F8E97B6EC74DB7CC28',
-    participant: undefined
-  },
-  messageTimestamp: 1721740022,
-  pushName: 'ceridono.ar Consultas Online',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage { text: 'op', contextInfo: [ContextInfo] },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'op',
-  from: '5493815908557'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0cde4ffc-4949-4da7-8cb7-53d7f6c84f32',
-  keyword: 'key_b29113ff-da2c-468b-844d-c68e8045a5f7',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'f1f96b4dc6c3e603441b2326155102eb'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875218221@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB030978810577A0491',
-    participant: undefined
-  },
-  messageTimestamp: 1721740035,
-  pushName: 'Ceridono',
-  broadcast: false,
-  message: Message {
-    contactMessage: ContactMessage {
-      displayName: 'Joaquín Guerra',
-      vcard: 'BEGIN:VCARD\n' +
-        'VERSION:3.0\n' +
-        'N:;Joaquín Guerra;;;\n' +
-        'FN:Joaquín Guerra\n' +
-        'TEL;type=CELL;waid=5493876831816:+54 9 3876 83-1816\n' +
-        'END:VCARD',
+      text: 'Hola buenas quería saber cuanto sale el curso',
       contextInfo: [ContextInfo]
     },
     messageContextInfo: MessageContextInfo {
@@ -2825,32 +205,12 @@
       deviceListMetadataVersion: 2
     }
   },
-  body: '',
-  from: '5493875218221'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
-    fromMe: false,
-    id: 'A9F7AA03906F6817E693645AF77E1A01',
-    participant: undefined
-  },
-  messageTimestamp: 1721740092,
-  pushName: 'Julio Mamani',
-  broadcast: false,
-  message: Message {
-    conversation: 'Bueno dale',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Bueno dale',
-  from: '5493757445564'
+  body: 'Hola buenas quería saber cuanto sale el curso',
+  from: '5493874664377'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
   answer: '__call_action__',
   options: {
     media: null,
@@ -2864,31 +224,51 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
+    remoteJid: '5493874664377@s.whatsapp.net',
     fromMe: false,
-    id: 'DF8CD3A9EF0B3FF0492B4D2F29A4DE7D',
+    id: '3A200E1D33A3A58BD23B',
     participant: undefined
   },
-  messageTimestamp: 1721740104,
-  pushName: 'Julio Mamani',
+  messageTimestamp: 1721768125,
+  pushName: 'Tiago',
   broadcast: false,
   message: Message {
-    conversation: 'Ai ya me suscribí',
+    conversation: 'Como',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Ai ya me suscribí',
-  from: '5493757445564'
+  body: 'Como',
+  from: '5493874664377'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874664377@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE27DCF76D151730DBA',
+    participant: undefined
+  },
+  messageTimestamp: 1721768127,
+  pushName: 'Tiago',
+  broadcast: false,
+  message: Message {
+    conversation: '??',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '??',
+  from: '5493874664377'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
   answer: '__call_action__',
   options: {
     media: null,
@@ -2902,31 +282,11 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
-    fromMe: false,
-    id: '6C9D8F0F93BCA5943B47AE2A100AA8BE',
-    participant: undefined
-  },
-  messageTimestamp: 1721740183,
-  pushName: 'Julio Mamani',
-  broadcast: false,
-  message: Message {
-    conversation: '👍🏻💪🏼',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '👍🏻💪🏼',
-  from: '5493757445564'
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
   answer: '__call_action__',
   options: {
     media: null,
@@ -2940,2019 +300,28 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5493875020096@s.whatsapp.net',
+    remoteJid: '5493874461349@s.whatsapp.net',
     fromMe: false,
-    id: '430811672835E886FADBC2465FF16270',
+    id: '2A4891D68D6678D964BFD964FEB9B80C',
     participant: undefined
   },
-  messageTimestamp: 1721740497,
-  pushName: 'Ale Albo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Buen día seguramente llevo antes del 31',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Buen día seguramente llevo antes del 31',
-  from: '5493875020096'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875020096@s.whatsapp.net',
-    fromMe: false,
-    id: 'AA259D664F6CE22860A358F2951F0AB7',
-    participant: undefined
-  },
-  messageTimestamp: 1721740843,
-  pushName: 'Ale Albo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Gracias',
-  from: '5493875020096'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875020096@s.whatsapp.net',
-    fromMe: false,
-    id: '0DFFE148F05A38F9E979C33C572B5F7B',
-    participant: undefined
-  },
-  messageTimestamp: 1721740901,
-  pushName: 'Ale Albo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'No me dieron permiso para trabajar los sábados laatarde por eso empeze l curso',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'No me dieron permiso para trabajar los sábados laatarde por eso empeze l curso',
-  from: '5493875020096'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875020096@s.whatsapp.net',
-    fromMe: false,
-    id: 'C05EEA9C82FA47EEEC7236EB65F27C5D',
-    participant: undefined
-  },
-  messageTimestamp: 1721740917,
-  pushName: 'Ale Albo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Cuando vuelvan a largar este curso de lunes a viernes me avisan',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Cuando vuelvan a largar este curso de lunes a viernes me avisan',
-  from: '5493875020096'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875020096@s.whatsapp.net',
-    fromMe: false,
-    id: '20A45DC051DBEE5219DF72C88B19F36C',
-    participant: undefined
-  },
-  messageTimestamp: 1721740966,
-  pushName: 'Ale Albo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Gracias',
-  from: '5493875020096'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875230472@s.whatsapp.net',
-    fromMe: false,
-    id: '1F46475BF35F8CC75B5C27BDDA36C924',
-    participant: undefined
-  },
-  messageTimestamp: 1721741506,
-  pushName: 'CERIDONO',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buen día ya te cargo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'CERIDONO',
-  body: 'Buen día ya te cargo',
-  from: '5493875230472'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876831816@s.whatsapp.net',
-    fromMe: false,
-    id: '3A4CC8D284197497EC48',
-    participant: undefined
-  },
-  messageTimestamp: 1721742061,
-  pushName: 'Joakoo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola juli',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola juli',
-  from: '5493876831816'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876831816@s.whatsapp.net',
-    fromMe: false,
-    id: '3AEF718B898C5854D2F4',
-    participant: undefined
-  },
-  messageTimestamp: 1721742064,
-  pushName: 'Joakoo',
-  broadcast: false,
-  message: Message {
-    conversation: 'No estoy en la empresa',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'No estoy en la empresa',
-  from: '5493876831816'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
-    fromMe: false,
-    id: '7FC8F57BF929A5590C4882FC2BB7CD25',
-    participant: undefined
-  },
-  messageTimestamp: 1721742452,
-  pushName: 'Julio Mamani',
-  broadcast: false,
-  message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [Array],
-      url: 'https://mmg.whatsapp.net/v/t62.7118-24/19005611_1007971314340595_8479700650346566490_n.enc?ccb=11-4&oh=01_Q5AaIL12kEehO01uCZo6lI5fk6hFqhbW_IaCkE4qENjllNAg&oe=66C70F15&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'image/jpeg',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 1599,
-      width: 714,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7118-24/19005611_1007971314340595_8479700650346566490_n.enc?ccb=11-4&oh=01_Q5AaIL12kEehO01uCZo6lI5fk6hFqhbW_IaCkE4qENjllNAg&oe=66C70F15&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array],
-      scansSidecar: [Uint8Array],
-      midQualityFileSha256: [Uint8Array]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '_event_media__df8c5a8e-64ff-40c7-9f15-abb38e0a6016',
-  from: '5493757445564'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876831816@s.whatsapp.net',
-    fromMe: false,
-    id: '3A45161170600FDBA866',
-    participant: undefined
-  },
-  messageTimestamp: 1721742483,
-  pushName: 'Joakoo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Háblalo con Carla y si no, ya lo veo cuando llegue',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Háblalo con Carla y si no, ya lo veo cuando llegue',
-  from: '5493876831816'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
-    fromMe: false,
-    id: '4CEA5034E078061B13589F99519E07FA',
-    participant: undefined
-  },
-  messageTimestamp: 1721742608,
-  pushName: 'Julio Mamani',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola ya pague el curso',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola ya pague el curso',
-  from: '5493757445564'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
-    fromMe: false,
-    id: '37203FCB9614B203AEE7F6E6BA39C531',
-    participant: undefined
-  },
-  messageTimestamp: 1721742811,
-  pushName: 'Julio Mamani',
-  broadcast: false,
-  message: Message {
-    conversation: '💪🏼👍🏻',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '💪🏼👍🏻',
-  from: '5493757445564'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
-    fromMe: false,
-    id: '4ED22AD29442E88D69D0ABFC7A0AA402',
-    participant: undefined
-  },
-  messageTimestamp: 1721742859,
-  pushName: 'Julio Mamani',
-  broadcast: false,
-  message: Message {
-    conversation: 'Recibido muchas gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Recibido muchas gracias',
-  from: '5493757445564'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493757445564@s.whatsapp.net',
-    fromMe: false,
-    id: 'A3D245A0F1B96A79D75F1925353CE5D8',
-    participant: undefined
-  },
-  messageTimestamp: 1721742874,
-  pushName: 'Julio Mamani',
-  broadcast: false,
-  message: Message {
-    conversation: 'Listo listo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Listo listo',
-  from: '5493757445564'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876059189@s.whatsapp.net',
-    fromMe: false,
-    id: '35D4DF0040E1529F48E5D598A4D21136',
-    participant: undefined
-  },
-  messageTimestamp: 1721743980,
-  pushName: 'Roberto',
-  broadcast: false,
-  message: Message {
-    conversation: 'Ok.. gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ok.. gracias',
-  from: '5493876059189'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875891124@s.whatsapp.net',
-    fromMe: false,
-    id: '15627806994139FDFCC9B7E0682AF9BD',
-    participant: undefined
-  },
-  messageTimestamp: 1721744017,
-  pushName: 'Luis Alberto Maita',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buenos días si los sábados en Septiembre sí puedo',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Buenos días si los sábados en Septiembre sí puedo',
-  from: '5493875891124'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875891124@s.whatsapp.net',
-    fromMe: false,
-    id: 'B170892335AFDC6E45B9DB7B49800CC2',
-    participant: undefined
-  },
-  messageTimestamp: 1721744054,
-  pushName: 'Luis Alberto Maita',
-  broadcast: false,
-  message: Message {
-    conversation: 'Sí gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Sí gracias',
-  from: '5493875891124'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875891124@s.whatsapp.net',
-    fromMe: false,
-    id: '105566502396879AB744895EB9E14F2A',
-    participant: undefined
-  },
-  messageTimestamp: 1721744083,
-  pushName: 'Luis Alberto Maita',
-  broadcast: false,
-  message: Message {
-    conversation: 'Ok gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ok gracias',
-  from: '5493875891124'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875891124@s.whatsapp.net',
-    fromMe: false,
-    id: 'D2FA3CE2FE20A204A8701AE0E9F525CB',
-    participant: undefined
-  },
-  messageTimestamp: 1721744134,
-  pushName: 'Luis Alberto Maita',
-  broadcast: false,
-  message: Message {
-    conversation: '👍',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '👍',
-  from: '5493875891124'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875107150@s.whatsapp.net',
-    fromMe: false,
-    id: '53F4D610F21F39A5488F8AB7372DE335',
-    participant: undefined
-  },
-  messageTimestamp: 1721744232,
-  pushName: 'SanTiiNo 🍀🍀🍀',
-  broadcast: false,
-  message: Message {
-    conversation: 'Si doña',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Si doña',
-  from: '5493875107150'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874126921@s.whatsapp.net',
-    fromMe: false,
-    id: '48EC9454621210108A295764233CA156',
-    participant: undefined
-  },
-  messageTimestamp: 1721744305,
-  pushName: 'caranchyto',
-  broadcast: false,
-  message: Message {
-    audioMessage: AudioMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.7117-24/34692837_1719186308614296_6973575850829049085_n.enc?ccb=11-4&oh=01_Q5AaIEn2asrXkLcBmtdvGE6RB-27RETxQI_gSXcudghmQLqs&oe=66C721EB&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'audio/ogg; codecs=opus',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      seconds: 22,
-      ptt: true,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7117-24/34692837_1719186308614296_6973575850829049085_n.enc?ccb=11-4&oh=01_Q5AaIEn2asrXkLcBmtdvGE6RB-27RETxQI_gSXcudghmQLqs&oe=66C721EB&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      contextInfo: [ContextInfo],
-      waveform: [Uint8Array]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '_event_voice_note__9c361b9a-fb73-4000-9d41-afa46c24c419',
-  from: '5493874126921'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: '1D3A6646660E4CD54D6C0F6E7F2D31A2',
-    participant: undefined
-  },
-  messageTimestamp: 1721744616,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Ok',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ok',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876337055@s.whatsapp.net',
-    fromMe: false,
-    id: '90FCBAA05E4761E710B35968F20E962A',
-    participant: undefined
-  },
-  messageTimestamp: 1721744637,
-  pushName: 'Anabel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Le aviso cuandopague',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Le aviso cuandopague',
-  from: '5493876337055'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0cde4ffc-4949-4da7-8cb7-53d7f6c84f32',
-  keyword: 'key_b29113ff-da2c-468b-844d-c68e8045a5f7',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'f1f96b4dc6c3e603441b2326155102eb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493872224726@s.whatsapp.net',
-    fromMe: false,
-    id: '8199BBE4909278FFA3D6D3240DCFD1A8',
-    participant: undefined
-  },
-  messageTimestamp: 1721744967,
-  pushName: 'Luciano',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola buenas',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola buenas',
-  from: '5493872224726'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874021088@s.whatsapp.net',
-    fromMe: false,
-    id: '3A82FE9E35E5EBD0E7251CB82B164003',
-    participant: undefined
-  },
-  messageTimestamp: 1721745059,
-  pushName: 'Ariel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola buen día. Si me interesa',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola buen día. Si me interesa',
-  from: '5493874021088'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493872224726@s.whatsapp.net',
-    fromMe: false,
-    id: '0C106A46CD5AD637396BD56BBA270846',
-    participant: undefined
-  },
-  messageTimestamp: 1721745082,
-  pushName: 'Luciano',
-  broadcast: false,
-  message: Message {
-    conversation: 'Perfecto muchas gracias',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Perfecto muchas gracias',
-  from: '5493872224726'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874021088@s.whatsapp.net',
-    fromMe: false,
-    id: '12E5756EFB6104235FD4CDBB7D903710',
-    participant: undefined
-  },
-  messageTimestamp: 1721745174,
-  pushName: 'Ariel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Si si',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Si si',
-  from: '5493874021088'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874021088@s.whatsapp.net',
-    fromMe: false,
-    id: '007A99EB5A28AC5C33359D10B8452BEF',
-    participant: undefined
-  },
-  messageTimestamp: 1721745237,
-  pushName: 'Ariel',
-  broadcast: false,
-  message: Message {
-    conversation: 'Ok gracias q tengas buen dia',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ok gracias q tengas buen dia',
-  from: '5493874021088'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875010005@s.whatsapp.net',
-    fromMe: false,
-    id: '7792AC0A98D94488F04856215B3812DF',
-    participant: undefined
-  },
-  messageTimestamp: 1721745358,
-  pushName: 'Agu🎣🎣 Escalada',
-  broadcast: false,
-  message: Message {
-    audioMessage: AudioMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.7117-24/25429355_495194516232164_1229821147591516861_n.enc?ccb=11-4&oh=01_Q5AaIAUAPHkLTze081AiWGHE7EJPnu9zB0wS_kphS8NeNMHB&oe=66C7469E&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'audio/ogg; codecs=opus',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      seconds: 43,
-      ptt: true,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7117-24/25429355_495194516232164_1229821147591516861_n.enc?ccb=11-4&oh=01_Q5AaIAUAPHkLTze081AiWGHE7EJPnu9zB0wS_kphS8NeNMHB&oe=66C7469E&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      waveform: [Uint8Array]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '_event_voice_note__68b91045-3f1d-4c61-8b55-f2a020372c8a',
-  from: '5493875010005'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874122411@s.whatsapp.net',
-    fromMe: false,
-    id: '721C00846D1DAEBA4DF1CF83BE5D2EAD',
-    participant: undefined
-  },
-  messageTimestamp: 1721745800,
-  pushName: 'J.s',
-  broadcast: false,
-  message: Message {
-    conversation: 'Buenas si sábados si por la mañana',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Buenas si sábados si por la mañana',
-  from: '5493874122411'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875010005@s.whatsapp.net',
-    fromMe: false,
-    id: '8B9B2D40C44421DCF99C71B49B357F24',
-    participant: undefined
-  },
-  messageTimestamp: 1721745945,
-  pushName: 'Agu🎣🎣 Escalada',
-  broadcast: false,
-  message: Message {
-    conversation: 'Si',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Si',
-  from: '5493875010005'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874122411@s.whatsapp.net',
-    fromMe: false,
-    id: '2A484DE6E26898FB7CDBA106FBA634A5',
-    participant: undefined
-  },
-  messageTimestamp: 1721746261,
-  pushName: 'J.s',
-  broadcast: false,
-  message: Message {
-    conversation: 'Bueno me avisas y si es así me anoto',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Bueno me avisas y si es así me anoto',
-  from: '5493874122411'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874122411@s.whatsapp.net',
-    fromMe: false,
-    id: '09C526DDA879FB02FE28F1B5BAF37E48',
-    participant: undefined
-  },
-  messageTimestamp: 1721746272,
-  pushName: 'J.s',
-  broadcast: false,
-  message: Message {
-    conversation: 'Cuanto cuesta',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Cuanto cuesta',
-  from: '5493874122411'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493874122411@s.whatsapp.net',
-    fromMe: false,
-    id: 'E2A896C99C8F85F47D47BBDA58738F1E',
-    participant: undefined
-  },
-  messageTimestamp: 1721746432,
-  pushName: 'J.s',
-  broadcast: false,
-  message: Message {
-    conversation: 'Ok me avisas por favor',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ok me avisas por favor',
-  from: '5493874122411'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876117058@s.whatsapp.net',
-    fromMe: false,
-    id: '1AE38360A881AC78CDA015A05C2C8AE7',
-    participant: undefined
-  },
-  messageTimestamp: 1721746941,
-  pushName: 'Kike',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Ys me inscribí en otro',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ys me inscribí en otro',
-  from: '5493876117058'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876117058@s.whatsapp.net',
-    fromMe: false,
-    id: '09FA5F7B7D47A5A4CE46FCCBDE97944B',
-    participant: undefined
-  },
-  messageTimestamp: 1721746951,
-  pushName: 'Kike',
-  broadcast: false,
-  message: Message {
-    conversation: 'Lunes a viernes de 19 a 22:40',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Lunes a viernes de 19 a 22:40',
-  from: '5493876117058'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876117058@s.whatsapp.net',
-    fromMe: false,
-    id: '2B2A7F86B7F9372C7B187200E0B19924',
-    participant: undefined
-  },
-  messageTimestamp: 1721746977,
-  pushName: 'Kike',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Heladeria domiciliaria estoy  interesado para iniciarme',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Heladeria domiciliaria estoy  interesado para iniciarme',
-  from: '5493876117058'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876117058@s.whatsapp.net',
-    fromMe: false,
-    id: '606E42C3A6053B766501D452F624A2FC',
-    participant: undefined
-  },
-  messageTimestamp: 1721746985,
-  pushName: 'Kike',
-  broadcast: false,
-  message: Message {
-    conversation: 'Solamente hice el.de.lavarropas ahi',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Solamente hice el.de.lavarropas ahi',
-  from: '5493876117058'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0cde4ffc-4949-4da7-8cb7-53d7f6c84f32',
-  keyword: 'key_b29113ff-da2c-468b-844d-c68e8045a5f7',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'f1f96b4dc6c3e603441b2326155102eb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493872215859@s.whatsapp.net',
-    fromMe: false,
-    id: '1AA73B1B2F6A586CB658A219A7DFB26B',
-    participant: undefined
-  },
-  messageTimestamp: 1721747988,
-  pushName: '✨',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Y si no queda otra lo voy a tener que hacer igual',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Y si no queda otra lo voy a tener que hacer igual',
-  from: '5493872215859'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493872215859@s.whatsapp.net',
-    fromMe: false,
-    id: '00AEF2DCFFB0341F99A8DE7EA5E0C0D3',
-    participant: undefined
-  },
-  messageTimestamp: 1721748042,
-  pushName: '✨',
-  broadcast: false,
-  message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [],
-      url: 'https://mmg.whatsapp.net/v/t62.7118-24/32342173_1027650635438741_1278587602617696044_n.enc?ccb=11-4&oh=01_Q5AaIENhfwhgOlvSOD35CiGH0hWjyTxWdsRwbt4dscNCsqR9&oe=66C73FDC&_nc_sid=5e03e0&mms3=true',
-      mimetype: 'image/jpeg',
-      caption: 'Ese también me interesa',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 1280,
-      width: 720,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/v/t62.7118-24/32342173_1027650635438741_1278587602617696044_n.enc?ccb=11-4&oh=01_Q5AaIENhfwhgOlvSOD35CiGH0hWjyTxWdsRwbt4dscNCsqR9&oe=66C73FDC&_nc_sid=5e03e0',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array]
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: '_event_media__eb54571f-aef3-464d-ab8b-43a3842b3f13',
-  from: '5493872215859'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875319305@s.whatsapp.net',
-    fromMe: false,
-    id: 'B9EF2EFB3E39FD1D783B01F8807CCF2A',
-    participant: undefined
-  },
-  messageTimestamp: 1721748133,
-  pushName: 'Leandro Castillo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola buenas solo era para saber el precio del curso',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola buenas solo era para saber el precio del curso',
-  from: '5493875319305'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875319305@s.whatsapp.net',
-    fromMe: false,
-    id: 'FB3C75DCE9BCF36B51C808B5E9E1E46A',
-    participant: undefined
-  },
-  messageTimestamp: 1721748145,
-  pushName: 'Leandro Castillo',
-  broadcast: false,
-  message: Message {
-    conversation: 'X el momento no llego 🤣',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'X el momento no llego 🤣',
-  from: '5493875319305'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875319305@s.whatsapp.net',
-    fromMe: false,
-    id: '8C1EE38D37848C2C0F84D5A41DFB7692',
-    participant: undefined
-  },
-  messageTimestamp: 1721748172,
-  pushName: 'Leandro Castillo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Okey dale',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Okey dale',
-  from: '5493875319305'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875319305@s.whatsapp.net',
-    fromMe: false,
-    id: '554E69B772AF7152BB54C6E390BF5B1E',
-    participant: undefined
-  },
-  messageTimestamp: 1721748358,
-  pushName: 'Leandro Castillo',
-  broadcast: false,
-  message: Message {
-    conversation: 'Dale cualquier cosa te estoy avisando',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Dale cualquier cosa te estoy avisando',
-  from: '5493875319305'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876345930@s.whatsapp.net',
-    fromMe: false,
-    id: 'FFCBD21539C474A1457D1BD91968AC4A',
-    participant: undefined
-  },
-  messageTimestamp: 1721750318,
-  pushName: '...',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'Hola q tal buenas noches soy eric manuel godoy',
-      previewType: 0,
-      contextInfo: [ContextInfo],
-      inviteLinkGroupTypeV2: 0
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Hola q tal buenas noches soy eric manuel godoy',
-  from: '5493876345930'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876345930@s.whatsapp.net',
-    fromMe: false,
-    id: '0C99F6F77A2A8394CF97E2AE7EA2EE4E',
-    participant: undefined
-  },
-  messageTimestamp: 1721750371,
-  pushName: '...',
-  broadcast: false,
-  message: Message {
-    conversation: 'Quiero aser el curso de instalador de split',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Quiero aser el curso de instalador de split',
-  from: '5493876345930'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876345930@s.whatsapp.net',
-    fromMe: false,
-    id: '68B12C5FB7B5EDC9883D74E766238732',
-    participant: undefined
-  },
-  messageTimestamp: 1721750387,
-  pushName: '...',
-  broadcast: false,
-  message: Message {
-    conversation: 'Es para sacr matricula tambien',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Es para sacr matricula tambien',
-  from: '5493876345930'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876345930@s.whatsapp.net',
-    fromMe: false,
-    id: '601F245983807A7B5C9753B227439394',
-    participant: undefined
-  },
-  messageTimestamp: 1721750545,
-  pushName: '...',
-  broadcast: false,
-  message: Message {
-    conversation: 'Yo voy a volver a retomar el curso',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Yo voy a volver a retomar el curso',
-  from: '5493876345930'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493876345930@s.whatsapp.net',
-    fromMe: false,
-    id: '9638465C196AD62875A53705F632BAF6',
-    participant: undefined
-  },
-  messageTimestamp: 1721750855,
-  pushName: '...',
-  broadcast: false,
-  message: Message {
-    conversation: 'Si me podrian llamar x favor',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Si me podrian llamar x favor',
-  from: '5493876345930'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875741822@s.whatsapp.net',
-    fromMe: false,
-    id: 'FF18651C5041D8909D8E238BFEC05A28',
-    participant: undefined
-  },
-  messageTimestamp: 1721751271,
-  pushName: 'Juarez  Ramiro',
-  broadcast: false,
-  message: Message {
-    conversation: 'Ya esta completado.',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Ya esta completado.',
-  from: '5493875741822'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875741822@s.whatsapp.net',
-    fromMe: false,
-    id: '1770CCC8EEB40689B4292FFC99028F8D',
-    participant: undefined
-  },
-  messageTimestamp: 1721751305,
-  pushName: 'Juarez  Ramiro',
-  broadcast: false,
-  message: Message {
-    conversation: 'Te aviso si  llego a pasar hoy o mañana',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Te aviso si  llego a pasar hoy o mañana',
-  from: '5493875741822'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875741822@s.whatsapp.net',
-    fromMe: false,
-    id: '5F3BE0D01B62CBCC38D71189B7A00BEE',
-    participant: undefined
-  },
-  messageTimestamp: 1721751384,
-  pushName: 'Juarez  Ramiro',
-  broadcast: false,
-  message: Message {
-    conversation: 'Op desactivar',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Op desactivar',
-  from: '5493875741822'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0cde4ffc-4949-4da7-8cb7-53d7f6c84f32',
-  keyword: 'key_b29113ff-da2c-468b-844d-c68e8045a5f7',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'f1f96b4dc6c3e603441b2326155102eb'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493875741822@s.whatsapp.net',
-    fromMe: false,
-    id: '9C8DFCAD7F1DD1841E1F312BAE666E93',
-    participant: undefined
-  },
-  messageTimestamp: 1721751401,
-  pushName: 'Juarez  Ramiro',
+  messageTimestamp: 1721773342,
+  pushName: 'Nicolás',
   broadcast: false,
   message: Message {
     stickerMessage: StickerMessage {
-      url: 'https://mmg.whatsapp.net/v/t62.15575-24/40945653_475701535207700_2365884735665738496_n.enc?ccb=11-4&oh=01_Q5AaIPVu85Ygm8g36Yg0aLYaA77JckbR6dltR82XEl1zg2Wx&oe=66C7507F&_nc_sid=5e03e0&mms3=true',
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/29713906_525763076548659_9009979332856879743_n.enc?ccb=11-4&oh=01_Q5AaIEDra_7OCoOgp8OJYEc26d0fEw8imJIncuwLVv-c9fDV&oe=66C79F99&_nc_sid=5e03e0&mms3=true',
       fileSha256: [Uint8Array],
       fileEncSha256: [Uint8Array],
       mediaKey: [Uint8Array],
       mimetype: 'image/webp',
-      height: 64,
-      width: 64,
-      directPath: '/v/t62.15575-24/40945653_475701535207700_2365884735665738496_n.enc?ccb=11-4&oh=01_Q5AaIPVu85Ygm8g36Yg0aLYaA77JckbR6dltR82XEl1zg2Wx&oe=66C7507F&_nc_sid=5e03e0',
+      height: 512,
+      width: 512,
+      directPath: '/v/t62.15575-24/29713906_525763076548659_9009979332856879743_n.enc?ccb=11-4&oh=01_Q5AaIEDra_7OCoOgp8OJYEc26d0fEw8imJIncuwLVv-c9fDV&oe=66C79F99&_nc_sid=5e03e0',
       fileLength: [Long],
       mediaKeyTimestamp: [Long],
       isAnimated: false,
@@ -4964,111 +333,64 @@
       deviceListMetadataVersion: 2
     }
   },
-  body: '_event_media__5628407d-9a9b-4cba-a208-1f4a84b9aec0',
-  from: '5493875741822'
+  body: '_event_media__0b40adaa-2e0f-449e-b374-5e56714c7d1e',
+  from: '5493874461349'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5493875741758@s.whatsapp.net',
+    remoteJid: '5493874846780@s.whatsapp.net',
     fromMe: false,
-    id: '9CFA361AB78379829094744C163C9ED4',
+    id: '3D68AFF216E8FA1FA3195DC5F882FC79',
     participant: undefined
   },
-  messageTimestamp: 1721751934,
-  pushName: 'Nestor',
+  messageTimestamp: 1721775298,
+  pushName: 'Jorge Ezequiel',
   broadcast: false,
   message: Message {
-    conversation: 'Si',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  body: 'Si',
-  from: '5493875741758'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5493812010781@s.whatsapp.net',
-    fromMe: false,
-    id: '7AA41AB80A348CF231',
-    participant: undefined
-  },
-  messageTimestamp: 1721754129,
-  pushName: 'Augusto Baralo',
-  broadcast: false,
-  message: Message {
-    extendedTextMessage: ExtendedTextMessage {
-      text: 'propiedades',
-      contextInfo: [ContextInfo]
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11878268_1407007559937962_217127596020612139_n.enc?ccb=11-4&oh=01_Q5AaIFt48o5aCgv3ojmGHmq22AehOe5NGV-TtruvLmRa7MCN&oe=66C7A4F6&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 12,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11878268_1407007559937962_217127596020612139_n.enc?ccb=11-4&oh=01_Q5AaIFt48o5aCgv3ojmGHmq22AehOe5NGV-TtruvLmRa7MCN&oe=66C7A4F6&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
     },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'propiedades',
-  from: '5493812010781'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0cde4ffc-4949-4da7-8cb7-53d7f6c84f32',
-  keyword: 'key_b29113ff-da2c-468b-844d-c68e8045a5f7',
-  answer: '__call_action__',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: true
-  },
-  refSerialize: 'f1f96b4dc6c3e603441b2326155102eb'
+  body: '_event_voice_note__bb4ea7a9-2bf5-41e4-b29d-b684658d3206',
+  from: '5493874846780'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5493874461349@s.whatsapp.net',
+    remoteJid: '5493874664377@s.whatsapp.net',
     fromMe: false,
-    id: '801A0F3CB4D3767BEA1BABCED618A423',
+    id: '3AABC41F9254616BD192',
     participant: undefined
   },
-  messageTimestamp: 1721754587,
-  pushName: 'Nicolás',
+  messageTimestamp: 1721822352,
+  pushName: 'Tiago',
   broadcast: false,
   message: Message {
-    conversation: 'Hola Juli, creería que no. Gracias por la oferta',
+    conversation: 'Hola julieta cómo estás',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Hola Juli, creería que no. Gracias por la oferta',
-  from: '5493874461349'
+  body: 'Hola julieta cómo estás',
+  from: '5493874664377'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_4fbccda1-6a59-4905-9acd-f0c096a03c10',
-  keyword: 'key_493f2eec-9938-45fd-a9c8-c17c7a6ad75a',
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
   answer: '__call_action__',
   options: {
     media: null,
@@ -5082,31 +404,51 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '1ee03ad3d02bbf267909b89c34e7d0b6'
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
 }
 [handleMsg]:  {
   key: {
-    remoteJid: '5493874461349@s.whatsapp.net',
+    remoteJid: '5493874664377@s.whatsapp.net',
     fromMe: false,
-    id: '32C93AEB264E33DD27FFEB4DD1B8C448',
+    id: '3AB05D45E10028656EDC',
     participant: undefined
   },
-  messageTimestamp: 1721754624,
-  pushName: 'Nicolás',
+  messageTimestamp: 1721822359,
+  pushName: 'Tiago',
   broadcast: false,
   message: Message {
-    conversation: 'Pausa',
+    conversation: 'Quería más información sobre el curso',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2
     }
   },
-  body: 'Pausa',
-  from: '5493874461349'
+  body: 'Quería más información sobre el curso',
+  from: '5493874664377'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874664377@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3A2CD265682827F9C4',
+    participant: undefined
+  },
+  messageTimestamp: 1721822364,
+  pushName: 'Tiago',
+  broadcast: false,
+  message: Message {
+    conversation: 'y el costo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'y el costo',
+  from: '5493874664377'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_0cde4ffc-4949-4da7-8cb7-53d7f6c84f32',
-  keyword: 'key_b29113ff-da2c-468b-844d-c68e8045a5f7',
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
   answer: '__call_action__',
   options: {
     media: null,
@@ -5120,5 +462,1058 @@
     keyword: {},
     callback: true
   },
-  refSerialize: 'f1f96b4dc6c3e603441b2326155102eb'
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874790769@s.whatsapp.net',
+    fromMe: false,
+    id: '9596300FF884D22F928030ACD31DF421',
+    participant: undefined
+  },
+  messageTimestamp: 1721822399,
+  pushName: 'marcelo cariaga',
+  broadcast: false,
+  message: Message {
+    conversation: '👍🏼',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '👍🏼',
+  from: '5493874790769'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874790769@s.whatsapp.net',
+    fromMe: false,
+    id: '9A338D0EF211FB08299EDDB7A5F8313B',
+    participant: undefined
+  },
+  messageTimestamp: 1721822426,
+  pushName: 'marcelo cariaga',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok, gracias.....!!!😃',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  status: 4,
+  body: 'Ok, gracias.....!!!😃',
+  from: '5493874790769'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874846780@s.whatsapp.net',
+    fromMe: false,
+    id: 'ABEB0D803D9FC22972657C68441C46E6',
+    participant: undefined
+  },
+  messageTimestamp: 1721822804,
+  pushName: 'Jorge Ezequiel',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/17623845_1226632268336140_2264036875912543131_n.enc?ccb=11-4&oh=01_Q5AaILT142dgKdgwNs_r018LLtUDokz7DW13r2h3ZgNtrLfd&oe=66C85917&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/17623845_1226632268336140_2264036875912543131_n.enc?ccb=11-4&oh=01_Q5AaILT142dgKdgwNs_r018LLtUDokz7DW13r2h3ZgNtrLfd&oe=66C85917&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__7254ebb9-8bf8-4663-b2b4-204e33f99f15',
+  from: '5493874846780'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874846780@s.whatsapp.net',
+    fromMe: false,
+    id: '1FCE1F41BB28D70E958ADDF50A6D2340',
+    participant: undefined
+  },
+  messageTimestamp: 1721822821,
+  pushName: 'Jorge Ezequiel',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11784657_1969037900193278_4556931049495773038_n.enc?ccb=11-4&oh=01_Q5AaIM5JyQHmg6PoGjxD6mQlgjBqXIwVRYvK6snOfDwG0MWk&oe=66C85656&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 13,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11784657_1969037900193278_4556931049495773038_n.enc?ccb=11-4&oh=01_Q5AaIM5JyQHmg6PoGjxD6mQlgjBqXIwVRYvK6snOfDwG0MWk&oe=66C85656&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__bf4c2241-5e7d-4162-9c2c-9ef20df428c4',
+  from: '5493874846780'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874846780@s.whatsapp.net',
+    fromMe: false,
+    id: '86CA47A5D193F144B77B9CAAB6AE302F',
+    participant: undefined
+  },
+  messageTimestamp: 1721822827,
+  pushName: 'Jorge Ezequiel',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11877471_4540477602843580_1295660874211718776_n.enc?ccb=11-4&oh=01_Q5AaIILFSkHHvjzQszdeaAMhcctCobt3WJFPP8H_aqE4gzrl&oe=66C85AB0&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 4,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11877471_4540477602843580_1295660874211718776_n.enc?ccb=11-4&oh=01_Q5AaIILFSkHHvjzQszdeaAMhcctCobt3WJFPP8H_aqE4gzrl&oe=66C85AB0&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__3d827fdb-1f23-44a7-b1ed-13260324900b',
+  from: '5493874846780'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874846780@s.whatsapp.net',
+    fromMe: false,
+    id: 'FA124200F47C36F6A8EBF12369AF0D4D',
+    participant: undefined
+  },
+  messageTimestamp: 1721824043,
+  pushName: 'Jorge Ezequiel',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/24247207_1988337398253290_764306747944216803_n.enc?ccb=11-4&oh=01_Q5AaIDkHrnP-RKdkaMVXuFMw7O2Nob0jExxApzTs55XgR3TO&oe=66C84AEF&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 10,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/24247207_1988337398253290_764306747944216803_n.enc?ccb=11-4&oh=01_Q5AaIDkHrnP-RKdkaMVXuFMw7O2Nob0jExxApzTs55XgR3TO&oe=66C84AEF&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__4a7e32bc-3b71-4b7f-85c3-40532c6429dc',
+  from: '5493874846780'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874505600@s.whatsapp.net',
+    fromMe: false,
+    id: 'CF4355F3150702DF9227791F95AD7D1A',
+    participant: undefined
+  },
+  messageTimestamp: 1721824060,
+  pushName: 'Jorge',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok muchas gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok muchas gracias',
+  from: '5493874505600'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874505600@s.whatsapp.net',
+    fromMe: false,
+    id: 'DF9B65EC817C762C73EEA7D7736E615F',
+    participant: undefined
+  },
+  messageTimestamp: 1721824073,
+  pushName: 'Jorge',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/19076930_7822136527824224_4306742398905064978_n.enc?ccb=11-4&oh=01_Q5AaIPj9HCVe52BO9r3Jnck5IDSzrsS3CvkfbI7-Kf67zxl5&oe=66C8670B&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/19076930_7822136527824224_4306742398905064978_n.enc?ccb=11-4&oh=01_Q5AaIPj9HCVe52BO9r3Jnck5IDSzrsS3CvkfbI7-Kf67zxl5&oe=66C8670B&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__61707b1b-900f-497b-a68f-407bc8a27700',
+  from: '5493874505600'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875405080@s.whatsapp.net',
+    fromMe: false,
+    id: '4746924981466E8F32E56C82FA47F75C',
+    participant: undefined
+  },
+  messageTimestamp: 1721824429,
+  pushName: 'Federico Hering',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Buen dia. Una consulta. Para ver o descargar los certificados de la UTN. Tenes algun link xq nunca me llego al email. Gracias',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buen dia. Una consulta. Para ver o descargar los certificados de la UTN. Tenes algun link xq nunca me llego al email. Gracias',
+  from: '5493875405080'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875405080@s.whatsapp.net',
+    fromMe: false,
+    id: '150D98842EB07DFF5415E397890CA6CB',
+    participant: undefined
+  },
+  messageTimestamp: 1721824518,
+  pushName: 'Federico Hering',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '👍🏻',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '5493875405080'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875405080@s.whatsapp.net',
+    fromMe: false,
+    id: '38900DAA30CC01D6726E980A212BFABA',
+    participant: undefined
+  },
+  messageTimestamp: 1721824547,
+  pushName: 'Federico Hering',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias',
+  from: '5493875405080'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875405080@s.whatsapp.net',
+    fromMe: false,
+    id: '89AFEBDF1986D1D7971FC491775B85AC',
+    participant: undefined
+  },
+  messageTimestamp: 1721824566,
+  pushName: 'Federico Hering',
+  broadcast: false,
+  message: Message {
+    conversation: 'Igualmente',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Igualmente',
+  from: '5493875405080'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875741822@s.whatsapp.net',
+    fromMe: false,
+    id: 'B3B3A178C6DDCC2DAA5DCD2F19C89D66',
+    participant: undefined
+  },
+  messageTimestamp: 1721825887,
+  pushName: 'Juarez  Ramiro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dale seguro ya en un momento  paso dale  buen día',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dale seguro ya en un momento  paso dale  buen día',
+  from: '5493875741822'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875741822@s.whatsapp.net',
+    fromMe: false,
+    id: '94565A01AC157B2E8FD6EC5B95F87BF7',
+    participant: undefined
+  },
+  messageTimestamp: 1721825891,
+  pushName: 'Juarez  Ramiro',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '🙏',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '5493875741822'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493876136354@s.whatsapp.net',
+    fromMe: false,
+    id: 'CAD6154DCE0CD629BC30CE9EC0664FE0',
+    participant: undefined
+  },
+  messageTimestamp: 1721828564,
+  pushName: 'Daniel Rivero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buenos dias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenos dias',
+  from: '5493876136354'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493876136354@s.whatsapp.net',
+    fromMe: false,
+    id: '3B09DFF2CB9A089727EAC24E4CD86572',
+    participant: undefined
+  },
+  messageTimestamp: 1721828588,
+  pushName: 'Daniel Rivero',
+  broadcast: false,
+  message: Message {
+    conversation: 'Consulta... El costo del curso?... Y ver losnlavarropas inverter?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Consulta... El costo del curso?... Y ver losnlavarropas inverter?',
+  from: '5493876136354'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8aaeda0f-4903-489a-b02f-3d7ff0413444',
+  keyword: 'key_c0511146-d034-4088-9fd6-2631ad42539d',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ba4cf59a1407460428e779564f99dd32'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875212210@s.whatsapp.net',
+    fromMe: false,
+    id: 'E539F1F6AFF382EAF4BC9CDA3627377B',
+    participant: undefined
+  },
+  messageTimestamp: 1721828656,
+  pushName: 'Hugo Poclava',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok',
+  from: '5493875212210'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874621409@s.whatsapp.net',
+    fromMe: false,
+    id: 'C2F45D1393B1976F8F2530B12A2F1792',
+    participant: undefined
+  },
+  messageTimestamp: 1721829564,
+  pushName: 'JUAN',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Buenas...🙋🏻‍♂️🙋🏻‍♂️',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenas...🙋🏻‍♂️🙋🏻‍♂️',
+  from: '5493874621409'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874843915@s.whatsapp.net',
+    fromMe: false,
+    id: '5B229944FC426BE0476D4AE8979574F8',
+    participant: undefined
+  },
+  messageTimestamp: 1721830068,
+  pushName: 'Sergio',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buen dia, me informaron que salia 70 mil con descuento',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buen dia, me informaron que salia 70 mil con descuento',
+  from: '5493874843915'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493872124948@s.whatsapp.net',
+    fromMe: false,
+    id: 'C1AD64E563E600E6C772C55C2378FAA7',
+    participant: undefined
+  },
+  messageTimestamp: 1721831433,
+  pushName: '☀🌙',
+  broadcast: false,
+  message: Message {
+    conversation: 'CURSO DE ELECTRICIDAD DOMICILIAR BASICA\n' +
+      'Dirigido a personas sin conocimientos técnicos previos. En este curso el alumno aprenderá los conceptos básicos y avanzados sobre las instalaciones de electricidad domiciliar. Todo lo que respecta a teoría, herramientas, materiales y practica profesional. Necesarios para realizar todo tipo de instalaciones domiciliarias de forma correcta y profesional.\n' +
+      '\n' +
+      '-Duración: 10 clases presenciales teóricas/practicas los días SÁBADO de 8.30 A 12.30HS\n' +
+      ' \n' +
+      '- Fecha de inicio: SÁBADOS 14 DE SEPTIEMBRE DE 8.30 A 12.30 HS 2024\n' +
+      ' \n' +
+      '- Costo del curso: $150.000 abonando en caja. Efectivo o débito. \n' +
+      ' \n' +
+      '                             COMO TÉCNICO AMIGO al registrarse en la página de ceridono.ar, como técnicos y generando un perfil (en caso de ser necesario nosotros los asesoramos).\n' +
+      'Y comprando el curso por la página web, ingresando a CERIDONO TÉCNICO en su MURO PERSONAL (ingresando con su usuario y contraseña)\n' +
+      'Formas de pago: \n' +
+      '_PAGANDO CON TARJETA DE DÉBITO O CRÉDITO ( bancaria hasta 3 pagos sin interés) $112.500.\n' +
+      '\n' +
+      '_ PAGANDO EN EFECTIVO $121.125\n' +
+      '\n' +
+      'El precio incluye:\n' +
+      '_ Los dos meses y medio que dura el curso \n' +
+      '_ Material de estudio \n' +
+      '_ Derecho de examen y recuperatorio.\n' +
+      '_ coffee break \n' +
+      '\n' +
+      'Los materiales de práctica corren a cuenta de alumno.\n' +
+      '\n' +
+      '- Se adjunta archivo PDF con el programa del mismo.\n' +
+      ' \n' +
+      'Espero que esta información sea lo que necesitas, cualquier consulta quedamos a tu disposición.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'CURSO DE ELECTRICIDAD DOMICILIAR BASICA\n' +
+    'Dirigido a personas sin conocimientos técnicos previos. En este curso el alumno aprenderá los conceptos básicos y avanzados sobre las instalaciones de electricidad domiciliar. Todo lo que respecta a teoría, herramientas, materiales y practica profesional. Necesarios para realizar todo tipo de instalaciones domiciliarias de forma correcta y profesional.\n' +
+    '\n' +
+    '-Duración: 10 clases presenciales teóricas/practicas los días SÁBADO de 8.30 A 12.30HS\n' +
+    ' \n' +
+    '- Fecha de inicio: SÁBADOS 14 DE SEPTIEMBRE DE 8.30 A 12.30 HS 2024\n' +
+    ' \n' +
+    '- Costo del curso: $150.000 abonando en caja. Efectivo o débito. \n' +
+    ' \n' +
+    '                             COMO TÉCNICO AMIGO al registrarse en la página de ceridono.ar, como técnicos y generando un perfil (en caso de ser necesario nosotros los asesoramos).\n' +
+    'Y comprando el curso por la página web, ingresando a CERIDONO TÉCNICO en su MURO PERSONAL (ingresando con su usuario y contraseña)\n' +
+    'Formas de pago: \n' +
+    '_PAGANDO CON TARJETA DE DÉBITO O CRÉDITO ( bancaria hasta 3 pagos sin interés) $112.500.\n' +
+    '\n' +
+    '_ PAGANDO EN EFECTIVO $121.125\n' +
+    '\n' +
+    'El precio incluye:\n' +
+    '_ Los dos meses y medio que dura el curso \n' +
+    '_ Material de estudio \n' +
+    '_ Derecho de examen y recuperatorio.\n' +
+    '_ coffee break \n' +
+    '\n' +
+    'Los materiales de práctica corren a cuenta de alumno.\n' +
+    '\n' +
+    '- Se adjunta archivo PDF con el programa del mismo.\n' +
+    ' \n' +
+    'Espero que esta información sea lo que necesitas, cualquier consulta quedamos a tu disposición.',
+  from: '5493872124948'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875741822@s.whatsapp.net',
+    fromMe: false,
+    id: '07777D621D6B7CCDD4CC9C1D13AA4F3E',
+    participant: undefined
+  },
+  messageTimestamp: 1721831818,
+  pushName: 'Juarez  Ramiro',
+  broadcast: false,
+  message: Message {
+    conversation: 'En camino',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'En camino',
+  from: '5493875741822'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875741822@s.whatsapp.net',
+    fromMe: false,
+    id: 'A110A9AA76B5FE0131DC82E225C1B88B',
+    participant: undefined
+  },
+  messageTimestamp: 1721831836,
+  pushName: 'Juarez  Ramiro',
+  broadcast: false,
+  message: Message {
+    conversation: 'No se que paso en el portezuela',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No se que paso en el portezuela',
+  from: '5493875741822'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875741822@s.whatsapp.net',
+    fromMe: false,
+    id: '27209F834FF32A8B07B40E3B3E267950',
+    participant: undefined
+  },
+  messageTimestamp: 1721831887,
+  pushName: 'Juarez  Ramiro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hay que ir  por monica  a paso de Honbre. Espero llegar dale',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hay que ir  por monica  a paso de Honbre. Espero llegar dale',
+  from: '5493875741822'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875638053@s.whatsapp.net',
+    fromMe: false,
+    id: 'E065AF558658F70A48D8E526BBFEC0FB',
+    participant: undefined
+  },
+  messageTimestamp: 1721832391,
+  pushName: 'Daniel',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bueno mucha gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Bueno mucha gracias',
+  from: '5493875638053'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875741822@s.whatsapp.net',
+    fromMe: false,
+    id: '0BAED9E46725AD79DFFF0DF78104608E',
+    participant: undefined
+  },
+  messageTimestamp: 1721833978,
+  pushName: 'Juarez  Ramiro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Estoy aquí',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Estoy aquí',
+  from: '5493875741822'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875741822@s.whatsapp.net',
+    fromMe: false,
+    id: '84763574E5C52C96EBF3CA6255A29660',
+    participant: undefined
+  },
+  messageTimestamp: 1721833983,
+  pushName: 'Juarez  Ramiro',
+  broadcast: false,
+  message: Message {
+    conversation: 'Subo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Subo',
+  from: '5493875741822'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874774251@s.whatsapp.net',
+    fromMe: false,
+    id: '22145150A50A135ACC9D2F928A4E79DB',
+    participant: undefined
+  },
+  messageTimestamp: 1721834690,
+  pushName: 'Guille',
+  broadcast: false,
+  message: Message {
+    conversation: 'Buen dia,Gracias por el mensaje',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buen dia,Gracias por el mensaje',
+  from: '5493874774251'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dfb954ae-d7b8-4444-abbf-4f234c7d5a42',
+  keyword: 'key_c3c0370d-7304-4fb3-b23b-9cd52d30c39e',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'a4fdd06763e431c577018a408619e842'
 }

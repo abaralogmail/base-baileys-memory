@@ -17,6 +17,7 @@
         "@bot-whatsapp/provider": "latest",
         "@whiskeysockets/baileys": "6.5.0",
         "cache-manager": "5.2.4",
+        "openai": "^4.53.0",
         "utils": "^0.3.1",
         "wa-sticker-formatter": "4.4.4",
         "xlsx": "^0.18.5"
