@@ -1,4 +1,5 @@
-const fetch = require('node-fetch');
+//const fetch = require('node-fetch');
+const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
 
 class NotionWorkspaceAssistant {
   constructor(notionApiKey, databaseId) {
@@ -99,4 +100,8 @@ class NotionWorkspaceAssistant {
     return "No puedo responder esa pregunta con la información disponible.";
   }
 }
+
+module.exports = { NotionWorkspaceAssistant };
+
+
 

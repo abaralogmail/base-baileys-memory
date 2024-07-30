@@ -4,7 +4,7 @@ const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const JsonFileAdapter = require('@bot-whatsapp/database/json')
 const sendBulkMessages = require('./mensajes/sendBulkMessages');
 
-const run = require('./mensajes/logica');
+const { run, executeNotionAssistant } = require('./mensajes/logica');
 //const { chatWithAssistant } = require('./mensajes/Assistant');
 const fs = require('fs').promises
 
@@ -14,6 +14,28 @@ let messageCount = 0;
 let userMessageCounts = {};
 
 
+const isWithinRestrictedHours = () => {
+    const now = new Date();
+    const day = now.getDay(); // 0 (Sunday) to 6 (Saturday)
+    const hour = now.getHours();
+    const minute = now.getMinutes();
+    
+    // Check if it's Monday to Saturday (1-6) and between 8:30 AM and 12:30 PM
+    return day >= 1 && day <= 6 && 
+           ((hour === 8 && minute >= 30) || (hour > 8 && hour < 12) || (hour === 12 && minute <= 30));
+};
+
+
+const flowNotionAssistant = addKeyword(['notion', 'database'])
+    .addAction(async (ctx, { flowDynamic }) => {
+        try {
+            const response = await executeNotionAssistant(ctx);
+            flowDynamic(response);
+        } catch (error) {
+            console.error('Error executing Notion Assistant:', error);
+            flowDynamic('There was an error processing your request with Notion Assistant.');
+        }
+    });
 
 const flowEnviarMensaje = addKeyword(['enviar mensaje'])
     .addAction(async (ctx, { flowDynamic, provider, gotoFlow }) => {
@@ -88,9 +110,26 @@ const saveBlockedUsers = async () => {
 const flowPrincipal = addKeyword(EVENTS.WELCOME)
     .addAction(async (ctx, { flowDynamic, state }) => {
         const userId = ctx.from;
+   
+        // Always store the query in history
+       const newHistory = (state.getMyState()?.history ?? [])
+       newHistory.push({ role: 'user', content: ctx.body })
+       console.log(`[ctx.from]:`, ctx.from);
+       console.log(`[ctx.body]:`, ctx.body);
+       // Check if it's within restricted hours
+       if (isWithinRestrictedHours()) {
+           //flowDynamic("Lo siento, MariaDono está deshabilitado de lunes a sábado de 8:30 a 12:30. Por favor, intenta más tarde.");
+           //newHistory.push({ role: 'assistant', content: "Lo siento, MariaDono está deshabilitado de lunes a sábado de 8:30 a 12:30. Por favor, intenta más tarde." })
+           await state.update({ history: newHistory })
+           return;
+       }
 
-       // Initialize or increment the message count for this user
+      
+     
+        // Initialize or increment the message count for this user
        userMessageCounts[userId] = (userMessageCounts[userId] || 0) + 1;
+
+
 
        // Check if it's the 8th message (or a multiple of 8)
        if (userMessageCounts[userId] % 8 === 0) {
@@ -99,10 +138,9 @@ const flowPrincipal = addKeyword(EVENTS.WELCOME)
 
         if (!blockedUsers.has(userId)) {
             try {
-                const newHistory = (state.getMyState()?.history ?? [])
-                newHistory.push({ role: 'user', content: ctx.body })
+      //          const newHistory = (state.getMyState()?.history ?? [])
+        //        newHistory.push({ role: 'user', content: ctx.body })
 
-                console.log(`[ctx.body]:`, ctx.body);
                 const largeResponse = await run(ctx, newHistory)
                 console.log(`[RESPONSE]:`, largeResponse);
 
@@ -127,7 +165,7 @@ const main = async () => {
     await loadBlockedUsers();
 
     const adapterDB = new JsonFileAdapter()
-    const adapterFlow = createFlow([flowEnviarMensaje, flowOperador, flowAsistente, flowPrincipal])
+    const adapterFlow = createFlow([flowEnviarMensaje, flowOperador, flowAsistente, flowNotionAssistant, flowPrincipal])
     const adapterProvider = createProvider(BaileysProvider)
 
     createBot({

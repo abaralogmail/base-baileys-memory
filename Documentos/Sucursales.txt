@@ -1,35 +1,50 @@
-
-Casa Central - Alberdi 1079 - Salta
-Horarios de atenci�n
-Lunes a Viernes de 8 a 20hs (horario corrido)
-S�bados de 8:30 a 12:30hs
-
-Sucursal Salta I - Zuviria 1527 - Salta
-Horarios de atenci�n
-Lunes a Viernes de 8 a 12hs y de 16 a 20hs
-S�bados de 8:30 a 12:30hs
-
-Sucursal Met�n Las Heras 206 - Met�n - Salta
-Horarios de atenci�n
-Lunes a Viernes de 8:30 a12:30 y de 15 a 19 hs
-S�bados de 8:30 a 12:30hs
-
-Sucursal Jujuy Av. El �xodo 743 - S.S. de Jujuy
-Horarios de atenci�n
-Lunes a Viernes de 8 a12 y de 16 a 20 hs
-S�bados de 8:30 a 12:30hs
-
-Sucursal Tucum�n Don Bosco esq Lucas C�rdoba - San Miguel de Tucum�n
-Horarios de Atenci�n 
-Lunes a Viernes de 8 a 19hs (horario corrido)
-S�bados de 8:30 a 13hs
-
-Sucursal MAHLE Av.Chile 1517 - Salta
-Horarios de Atenci�n 
-Lunes a Viernes de 9 a 13hs y de 15 a 19hs
-S�bados de 9 a 13hs
-
-Sucursal Servicio T�cnico Esteco 1080 - Salta
-Horarios de Atenci�n 
-Lunes a Viernes de 9 a 13hs y de 14 a 18hs
-S�bados de 8:30 a 12:30hs
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Sucursales</title>
+  </head>
+  <body>
+    <outline text="Casa Central - Alberdi 1079 - Salta">
+      <outline text="Horarios de atención">
+        <outline text="Lunes a Viernes de 8 a 20hs (horario corrido)"/>
+        <outline text="Sábados de 8:30 a 12:30hs"/>
+      </outline>
+    </outline>
+    <outline text="Sucursal Salta I - Zuviría 1527 - Salta">
+      <outline text="Horarios de atención">
+        <outline text="Lunes a Viernes de 8 a 12hs y de 16 a 20hs"/>
+        <outline text="Sábados de 8:30 a 12:30hs"/>
+      </outline>
+    </outline>
+    <outline text="Sucursal Metán Las Heras 206 - Metán - Salta">
+      <outline text="Horarios de atención">
+        <outline text="Lunes a Viernes de 8:30 a12:30 y de 15 a 19 hs"/>
+        <outline text="Sábados de 8:30 a 12:30hs"/>
+      </outline>
+    </outline>
+    <outline text="Sucursal Jujuy Av. El Éxodo 743 - S.S. de Jujuy">
+      <outline text="Horarios de atención">
+        <outline text="Lunes a Viernes de 8 a12 y de 16 a 20 hs"/>
+        <outline text="Sábados de 8:30 a 12:30hs"/>
+      </outline>
+    </outline>
+    <outline text="Sucursal Tucumán Don Bosco esq Lucas Córdoba - San Miguel de Tucumán">
+      <outline text="Horarios de Atención">
+        <outline text="Lunes a Viernes de 8 a 19hs (horario corrido)"/>
+        <outline text="Sábados de 8:30 a 13hs"/>
+      </outline>
+    </outline>
+    <outline text="Sucursal MAHLE Av.Chile 1517 - Salta">
+      <outline text="Horarios de Atención">
+        <outline text="Lunes a Viernes de 9 a 13hs y de 15 a 19hs"/>
+        <outline text="Sábados de 9 a 13hs"/>
+      </outline>
+    </outline>
+    <outline text="Sucursal Servicio Técnico Esteco 1080 - Salta">
+      <outline text="Horarios de Atención">
+        <outline text="Lunes a Viernes de 9 a 13hs y de 14 a 18hs"/>
+        <outline text="Sábados de 8:30 a 12:30hs"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
