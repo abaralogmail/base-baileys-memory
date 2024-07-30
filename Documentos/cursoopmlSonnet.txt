@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <title>Cursos - Centro de Formación Técnica Profesional CERIDONO - 2024.</title>
+  </head>
+  <body>
+    <outline text="Centro de Formación Técnica Profesional CERIDONO.">
+      
+      <outline text="CURSOC Curso de Refrigeración Comercial">
+        <outline text="Descripción: Aprende la instalacion, mantenimiento y reparacion de equipos de refrigeración comercial." />
+        <outline text="Nivel: Intermedio" />
+        <outline text="Duración: 10 clases presenciales" />
+        <outline text="Fecha de Inicio: miércoles 14 de agosto de 2024" />
+        <outline text="Horario: desde 15:00hs hasta 19:00hs." />
+        <outline text="Costo: $150.000 abonando en caja, efectivo o débito" />
+        <outline text="Descuento: 25% Técnico Amigo ($112.500 con tarjeta, $121.125 en efectivo)." />
+        <outline text="Link de Pago: https://www.ceridono.ar/panel/pres/?pr=aGVqbQ==" />
+        <outline text="Formas de Pago: Tarjeta de crédito/débito hasta 3 pagos sin interés, efectivo." />
+        <outline text="Incluye: Cursado completo, material de estudio, derecho de examen y recuperatorio, coffee break." />
+        <outline text="Requisitos: Materiales de práctica a cuenta del alumno." />
+        <outline text="Disponibilidad: 3 cupos disponibles" />
+        <outline text="Regalo: Gorra y Cupón descuento para compra de herramientas" />
+        <outline text="Registro: https://www.ceridono.ar/tecnicos" />
+        <outline text="Programa:
+          • Componentes de un Circuito de Refrigeración Comercial
+          • Sub-Enfriamiento y Sobrecalentamiento
+          • Refrigerantes y Aceites Lubricantes
+          • Intercambiadores de Calor: Condensador y Evaporador Comercial
+          • Tipos de Válvula de Expansión
+          • Recibidor de Líquido, Separador de Aceite, Acumulador de Succión
+          • Circuito Eléctrico 
+          • Termostato, Presostato y Combistato: Funcionamiento, Instalación
+          • Recuperación de Refrigerantes
+          • Diagnóstico de Fallas Comunes y Detección de Fugas" />
+      </outline>
+      
+      <outline text="CURSOREP Curso de Aire Acondicionado">
+        <outline text="Descripción: Mantenimiento y reparación de aires acondicionados tipo ventana y Split (hasta 9000 fg)." />
+        <outline text="Nivel: Intermedio" />
+        <outline text="Duración: 10 clases presenciales" />
+        <outline text="Fecha de Inicio: Próximamente" />
+        <outline text="Horario: no disponible" />
+        <outline text="Costo: $150.000 abonando en caja, efectivo o débito." />
+        <outline text="Descuento: 25% Técnico Amigo ($112.500 con tarjeta, $121.125 en efectivo)" />
+        <outline text="Link de Pago: https://www.ceridono.ar/panel/pres/?pr=aGVqbA==" />
+        <outline text="Formas de Pago: Tarjeta de crédito/débito hasta 3 pagos sin interés, efectivo." />
+        <outline text="Incluye: Cursado completo, material de estudio, derecho de examen y recuperatorio, coffee break." />
+        <outline text="Requisitos: Materiales de práctica a cuenta del alumno." />
+        <outline text="Disponibilidad: 2 cupos disponibles" />
+        <outline text="Regalo: Gorra y Cupón descuento para compra de herramientas" />
+        <outline text="Registro: https://www.ceridono.ar/tecnicos" />
+        <outline text="Programa:
+          • Circuito de Refrigeración
+          • Unidad Interior
+          • Unidad Exterior
+          • Mantenimiento Preventivo
+          • Diagnóstico y Detección de Fallas
+          • Mantenimiento Correctivo" />
+      </outline>
+      
+      <outline text="CURSOR Curso de Refrigeracion Basica">
+        <outline text="Descripción: Ideal para comenzar en el rubro, mantenimiento y reparación de heladeras y freezers domiciliarias." />
+        <outline text="Nivel: Básico" />
+        <outline text="Duración: 10 clases presenciales" />
+        <outline text="Fecha de Inicio: lunes 9 de septiembre de 2024" />
+        <outline text="Horario: desde 15:00hs hasta 19:00hs" />
+        <outline text="Costo: $150.000 abonando en caja, efectivo o débito." />
+        <outline text="Descuento: 25% Técnico Amigo ($112.500 con tarjeta, $121.125 en efectivo)" />
+        <outline text="Link de Pago: https://www.ceridono.ar/panel/pres/?pr=aGVrbA==" />
+        <outline text="Formas de Pago: Tarjeta de crédito/débito hasta 3 pagos sin interés, efectivo." />
+        <outline text="Incluye: Cursado completo, material de estudio, derecho de examen y recuperatorio, coffee break." />
+        <outline text="Requisitos: Materiales de práctica a cuenta del alumno." />
+        <outline text="Disponibilidad: 2 cupos disponibles" />
+        <outline text="Regalo: Gorra y Cupón descuento para compra de herramientas" />
+        <outline text="Registro: https://www.ceridono.ar/tecnicos" />
+        <outline text="Programa:
+          • Circuito de Refrigeración
+          • Unidad Interior
+          • Unidad Exterior
+          • Mantenimiento Preventivo
+          • Diagnóstico y Detección de Fallas
+          • Mantenimiento Correctivo" />
+      </outline>
+      
+      <outline text="CURSOI Instalador de Split Inverter">
+        <outline text="Descripción: Instalación de equipos Split de hasta 9000 fg y gestión de matrícula de instalador." />
+        <outline text="Nivel: Básico" />
+        <outline text="Duración: 10 clases presenciales" />
+        <outline text="Fecha de Inicio: Jueves 15 de Agosto de 2024" />
+        <outline text="Horario: desde 15:00hs hasta 19:00hs" />
+        <outline text="Costo: $150.000 abonando en caja, efectivo o débito." />
+        <outline text="Descuento: 25% Técnico Amigo ($112.500 con tarjeta, $121.125 en efectivo)" />
+        <outline text="Link de Pago: https://www.ceridono.ar/panel/pres/?pr=aGVpcg==" />
+        <outline text="Formas de Pago: Tarjeta de crédito/débito hasta 3 pagos sin interés, efectivo." />
+        <outline text="Incluye: Cursado completo, material de estudio, derecho de examen y recuperatorio, coffee break." />
+        <outline text="Requisitos: Materiales de práctica a cuenta del alumno." />
+        <outline text="Disponibilidad: 3 cupos disponibles" />
+        <outline text="Regalo: Gorra y Cupón descuento para compra de herramientas" />
+        <outline text="Registro: https://www.ceridono.ar/tecnicos" />
+        <outline text="Programa:
+          • Introducción a la Refrigeración y Conceptos Básicos
+          • Componentes y Funcionamiento del Sistema de Refrigeración
+          • Componentes Eléctricos y Mecánicos
+          • Herramientas y Procedimientos de Instalación
+          • Parte Eléctrica del Aire Acondicionado
+          • Instalación y Mantenimiento de Equipos Split
+          • Tecnología Inverter y Diagnóstico de Fallas
+          • Seguridad y Procedimientos Adecuados" />
+      </outline>
+      
+      <outline text="CURSOGI Manejo Seguro de Gases Refrigerantes Inflamables">
+        <outline text="Descripción: Curso avalado por ONUDI sobre manejo de gases refrigerantes inflamables." />
+        <outline text="Nivel: Avanzado" />
+        <outline text="Duración: 4 clases presenciales" />
+        <outline text="Fecha de Inicio: sábado 23 de noviembre de 2024" />
+        <outline text="Horario: desde 9:00hs hasta 15:00hs" />
+        <outline text="Costo: $200.000 abonando en caja, efectivo o débito." />
+        <outline text="Descuento: 25% Técnico Amigo ($150.000 con tarjeta, $170.000 en efectivo)" />
+        <outline text="Link de Pago: https://www.ceridono.ar/panel/pres/?pr=aGVrbQ==" />
+        <outline text="Formas de Pago: Tarjeta de crédito/débito hasta 3 pagos sin interés, efectivo." />
+        <outline text="Incluye: Cursado completo, material de estudio, derecho de examen y recuperatorio, coffee break." />
+        <outline text="Requisitos: Materiales de práctica a cuenta del alumno." />
+        <outline text="Disponibilidad: 2 cupos disponibles" />
+        <outline text="Regalo: Gorra y Cupón descuento para compra de herramientas" />
+        <outline text="Registro: https://www.ceridono.ar/tecnicos" />
+        <outline text="Programa:
+          • Capa de Ozono y Cambio Climático
+          • Normativa Nacional
+          • Conceptos Básicos de Refrigeración
+          • Refrigerantes
+          • Sistemas de Refrigeración y Aire Acondicionado
+          • Diseño de Sistemas con Refrigerantes Inflamables
+          • Mantenimiento y Reparación: Evacuación
+          • Detección de Fugas
+          • Recuperación de Refrigerantes
+          • Trabajo en Cañerías." />
+      </outline>
+
+      <outline text="CURSOA Curso de Refrigeración del Automotor">
+        <outline text="Descripción: Instalación, mantenimiento y reparación de equipos de aire acondicionado en Automoviles." />
+        <outline text="Nivel: Intermedio" />
+        <outline text="Duración: 10 clases presenciales" />
+        <outline text="Fecha de Inicio: Próximamente" />
+        <outline text="Horario: no disponible" />
+        <outline text="Costo: $150.000 abonando en caja, efectivo o débito." />
+        <outline text="Descuento: 25% Técnico Amigo ($112.500 con tarjeta, $121.125 en efectivo)" />
+        <outline text="Link de Pago:
+https://www.ceridono.ar/panel/pres/?pr=aGVqbw==" />
+        <outline text="Formas de Pago: Tarjeta de crédito/débito hasta 3 pagos sin interés, efectivo." />
+        <outline text="Incluye: Cursado completo, material de estudio, derecho de examen y recuperatorio, coffee break." />
+        <outline text="Requisitos: Materiales de práctica a cuenta del alumno." />
+        <outline text="Disponibilidad: 3 cupos disponibles" />
+        <outline text="Regalo: Gorra y Cupón descuento para compra de herramientas" />
+        <outline text="Registro: https://www.ceridono.ar/tecnicos" />
+        <outline text="Programa:
+          • Introducción a la Refrigeración Automotriz
+          • Componentes del Sistema de Aire Acondicionado de Vehículos
+          • Diagnóstico de Fallas
+          • Mantenimiento y Reparación
+          • Recarga de Refrigerante
+          • Manejo Seguro de Gases Refrigerantes" />
+      </outline>
+
+      <outline text="CURSOL Curso de Reparación y Mantenimiento de Lavarropas (Comunes y Automáticos).">
+        <outline text="Descripción: Mantenimiento y reparación de lavarropas comunes, automáticos y secarropas." />
+        <outline text="Nivel: Básico." />
+        <outline text="Duración: 10 clases presenciales." />
+        <outline text="Fecha de Inicio: martes 6 de agosto de 2024." />
+        <outline text="Horario: desde 15:00hs hasta 19:00hs." />
+        <outline text="Costo: $150.000 abonando en caja, efectivo o débito." />
+        <outline text="Descuento: 25% Técnico Amigo ($112.500 con tarjeta, $121.125 en efectivo)." />
+        <outline text="Link de Pago: https://www.ceridono.ar/panel/pres/?pr=aGVraw==" />
+        <outline text="Formas de Pago: Tarjeta de crédito/débito hasta 3 pagos sin interés, efectivo." />
+        <outline text="Incluye: Cursado completo, material de estudio, derecho de examen y recuperatorio, coffee break." />
+        <outline text="Requisitos: Materiales de práctica a cuenta del alumno." />
+        <outline text="Disponibilidad: 3 cupos disponibles." />
+        <outline text="Regalo: Gorra y Cupón descuento para compra de herramientas." />
+        <outline text="Registro: https://www.ceridono.ar/tecnicos" />
+        <outline text="Programa:
+          • Tipos de Lavarropas y sus Características
+          • Instalación y Conexión
+          • Funcionamiento
+          • Programas de Lavado
+          • Partes Componentes
+          • Panel de Control y Componentes Electrónicos
+          • Taller de Lavarropas
+          • Electricidad Básica
+          • Circuitos Eléctricos de Lavarropas
+          • Prácticas." />
+      </outline>
+
+      <outline text="CURSOE Curso de Electricidad Basica Domiciliaria">
+        <outline text="Descripción: Instalaciones eléctricas domiciliarias básicas." />
+        <outline text="Nivel: Básico" />
+                <outline text="Duración: 10 clases presenciales" />
+        <outline text="Fecha de Inicio: Sábados 14 de septiembre de 2024" />
+        <outline text="Horario: desde 8:30hs hasta 12:30hs" />
+        <outline text="Costo: $150.000 abonando en caja, efectivo o débito." />
+        <outline text="Descuento: 25% Técnico Amigo ($112.500 con tarjeta, $121.125 en efectivo)" />
+        <outline text="Link de Pago: https://www.ceridono.ar/panel/pres/?pr=aGVrbg==" />
+        <outline text="Formas de Pago: Tarjeta de crédito/débito hasta 3 pagos sin interés, efectivo." />
+        <outline text="Incluye: Cursado completo, material de estudio, derecho de examen y recuperatorio, coffee break." />
+        <outline text="Requisitos: Materiales de práctica a cuenta del alumno." />
+        <outline text="Disponibilidad: 2 cupos disponibles" />
+        <outline text="Regalo: Gorra y Cupón descuento para compra de herramientas" />
+        <outline text="Registro: https://www.ceridono.ar/tecnicos" />
+        <outline text="Programa:
+          • Fundamentos de Electricidad
+          • Conceptos y Unidades de Medida
+          • Taller de Electricidad
+          • Materiales Eléctricos
+          • Circuitos Eléctricos
+          • Práctica
+          • Seguridad y Normas" />
+      </outline>
+    </outline>
+  </body>
+</opml>
