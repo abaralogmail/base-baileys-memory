@@ -54,6 +54,20 @@ const flowEnviarMensaje = addKeyword(['enviar mensaje'])
         }
     })
 
+const flowEnviarMensaje = addKeyword(['enviar', 'mensaje'])
+    .addAction(async (ctx, { flowDynamic, provider }) => {
+        const numero = '5491137556119'; // Replace with the desired phone number
+        const mensaje = 'Este es un mensaje de prueba desde MariaDono';
+
+        try {
+            await provider.sendText(`${numero}@c.us`, mensaje);
+            flowDynamic('Mensaje enviado con éxito');
+        } catch (error) {
+            console.error('Error al enviar mensaje:', error);
+            flowDynamic('Hubo un error al enviar el mensaje');
+        }
+
+
 const flowOperador = addKeyword(['operadora', 'op', 'desactivar', 'pausa', 'pausar'])
     .addAction(async (ctx, { flowDynamic, gotoFlow }) => {
         const validKeywords = ['operadora', 'op', 'desactivar', 'pausa', 'pausar'];
