@@ -38,8 +38,8 @@
         <outline text="Descripción: Mantenimiento y reparación de aires acondicionados tipo ventana y Split (hasta 9000 fg)." />
         <outline text="Nivel: Intermedio" />
         <outline text="Duración: 10 clases presenciales" />
-        <outline text="Fecha de Inicio: Próximamente" />
-        <outline text="Horario: no disponible" />
+        <outline text="Fecha de Inicio: martes 15 de Octubre de 2024" />
+        <outline text="Horario: desde 15:00hs hasta 19:00hs." />
         <outline text="Costo: $150.000 abonando en caja, efectivo o débito." />
         <outline text="Descuento: 25% Técnico Amigo ($112.500 con tarjeta, $121.125 en efectivo)" />
         <outline text="Link de Pago: https://www.ceridono.ar/panel/pres/?pr=aGVqbA==" />
@@ -140,8 +140,8 @@
         <outline text="Descripción: Instalación, mantenimiento y reparación de equipos de aire acondicionado en Automoviles." />
         <outline text="Nivel: Intermedio" />
         <outline text="Duración: 10 clases presenciales" />
-        <outline text="Fecha de Inicio: Próximamente" />
-        <outline text="Horario: no disponible" />
+        <outline text="Fecha de Inicio: lunes 25 de Noviembre de 2024" />
+        <outline text="Horario: desde 15:00hs hasta 19:00hs." />
         <outline text="Costo: $150.000 abonando en caja, efectivo o débito." />
         <outline text="Descuento: 25% Técnico Amigo ($112.500 con tarjeta, $121.125 en efectivo)" />
         <outline text="Link de Pago:
@@ -193,8 +193,8 @@ https://www.ceridono.ar/panel/pres/?pr=aGVqbw==" />
         <outline text="Descripción: Instalaciones eléctricas domiciliarias básicas." />
         <outline text="Nivel: Básico" />
                 <outline text="Duración: 10 clases presenciales" />
-        <outline text="Fecha de Inicio: Sábados 14 de septiembre de 2024" />
-        <outline text="Horario: desde 8:30hs hasta 12:30hs" />
+        <outline text="Fecha de Inicio: Viernes 13 de septiembre de 2024" />
+        <outline text="Horario: desde 15hs hasta 19:00hs" />
         <outline text="Costo: $150.000 abonando en caja, efectivo o débito." />
         <outline text="Descuento: 25% Técnico Amigo ($112.500 con tarjeta, $121.125 en efectivo)" />
         <outline text="Link de Pago: https://www.ceridono.ar/panel/pres/?pr=aGVrbg==" />

@@ -1,50 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="1.0">
   <head>
-    <title>Sucursales</title>
+    <title>Sucursales Venta de Repuestos, Centros de Capacitación y Servicio Técnico</title>
   </head>
   <body>
-    <outline text="Casa Central - Alberdi 1079 - Salta">
-      <outline text="Horarios de atención">
-        <outline text="Lunes a Viernes de 8 a 20hs (horario corrido)"/>
-        <outline text="Sábados de 8:30 a 12:30hs"/>
+    <outline text="Venta de Repuestos, Centros de Capacitación y Servicio Técnico">
+      
+      <outline text="Venta de Repuestos">
+        <outline text="Casa Central">
+          <outline text="Dirección: Alberdi 1079 - Salta" />
+          <outline text="Horario de Atención">
+            <outline text="Lunes a Viernes: 8:00 - 20:00 (horario corrido)" />
+            <outline text="Sábados: 8:30 - 12:30" />
+          </outline>
+          <outline text="Teléfono: 03875218221" />
+        </outline>
+        <outline text="Zona Norte">
+          <outline text="Dirección: Zuviría 1527 - Salta" />
+          <outline text="Horario de Atención">
+            <outline text="Lunes a Viernes: 8:00 - 12:00 y 16:00 - 20:00" />
+            <outline text="Sábados: 8:30 - 12:30" />
+          </outline>
+          <outline text="Teléfono: 03875219215" />
+        </outline>
+        <outline text="Metán">
+          <outline text="Dirección: Las Heras 206 - Metán - Salta" />
+          <outline text="Horario de Atención">
+            <outline text="Lunes a Viernes: 8:30 - 12:30 y 15:00 - 19:00" />
+            <outline text="Sábados: 8:30 - 12:30" />
+          </outline>
+          <outline text="Teléfono: 03876621962" />
+        </outline>
+        <outline text="Jujuy">
+          <outline text="Dirección: Av. El Éxodo 743 - S.S. de Jujuy" />
+          <outline text="Horario de Atención">
+            <outline text="Lunes a Viernes: 8:00 - 12:00 y 16:00 - 20:00" />
+            <outline text="Sábados: 8:30 - 12:30" />
+          </outline>
+          <outline text="Teléfono: 03885712603" />
+        </outline>
+        <outline text="Tucumán">
+          <outline text="Dirección: Don Bosco esq Lucas Córdoba - San Miguel de Tucumán" />
+          <outline text="Horario de Atención">
+            <outline text="Lunes a Viernes: 8:00 - 19:00 (horario corrido)" />
+            <outline text="Sábados: 8:30 - 13:00" />
+          </outline>
+          <outline text="Teléfono: 03815908557" />
+        </outline>
+        <outline text="MAHLE">
+          <outline text="Dirección: Av. Chile 1517 - Salta" />
+          <outline text="Horario de Atención">
+            <outline text="Lunes a Viernes: 9:00 - 13:00 y 15:00 - 19:00" />
+            <outline text="Sábados: 9:00 - 13:00" />
+          </outline>
+          <outline text="Teléfono: 03874664047" />
+        </outline>
       </outline>
-    </outline>
-    <outline text="Sucursal Salta I - Zuviría 1527 - Salta">
-      <outline text="Horarios de atención">
-        <outline text="Lunes a Viernes de 8 a 12hs y de 16 a 20hs"/>
-        <outline text="Sábados de 8:30 a 12:30hs"/>
+
+      <outline text="Centros de Capacitación">
+        <outline text="Salta">
+          <outline text="Dirección: 1er Piso - Alberdi 1079 - Salta" />
+          <outline text="Horario de Atención">
+            <outline text="Lunes a Viernes: 8:00 - 20:00 (horario corrido)" />
+            <outline text="Sábados: 8:30 - 12:30" />
+          </outline>
+          <outline text="Teléfono: 03875218575" />
+        </outline>
+        <outline text="Tucumán">
+          <outline text="Dirección: 1er Piso - Don Bosco esq Lucas Córdoba - San Miguel de Tucumán" />
+          <outline text="Horario de Atención">
+            <outline text="Lunes a Viernes: 8:00 - 19:00 (horario corrido)" />
+            <outline text="Sábados: 8:30 - 13:00" />
+          </outline>
+          <outline text="Teléfono: 03815908557" />
+        </outline>
       </outline>
-    </outline>
-    <outline text="Sucursal Metán Las Heras 206 - Metán - Salta">
-      <outline text="Horarios de atención">
-        <outline text="Lunes a Viernes de 8:30 a12:30 y de 15 a 19 hs"/>
-        <outline text="Sábados de 8:30 a 12:30hs"/>
+      
+      <outline text="Servicio Técnico">
+        <outline text="Dirección: Esteco 1080 - Salta" />
+        <outline text="Horario de Atención">
+          <outline text="Lunes a Viernes: 9:00 - 13:00 y 14:00 - 18:00" />
+          <outline text="Sábados: 8:30 - 12:30" />
+        </outline>
+        <outline text="Teléfono: 03875219511" />
       </outline>
-    </outline>
-    <outline text="Sucursal Jujuy Av. El Éxodo 743 - S.S. de Jujuy">
-      <outline text="Horarios de atención">
-        <outline text="Lunes a Viernes de 8 a12 y de 16 a 20 hs"/>
-        <outline text="Sábados de 8:30 a 12:30hs"/>
-      </outline>
-    </outline>
-    <outline text="Sucursal Tucumán Don Bosco esq Lucas Córdoba - San Miguel de Tucumán">
-      <outline text="Horarios de Atención">
-        <outline text="Lunes a Viernes de 8 a 19hs (horario corrido)"/>
-        <outline text="Sábados de 8:30 a 13hs"/>
-      </outline>
-    </outline>
-    <outline text="Sucursal MAHLE Av.Chile 1517 - Salta">
-      <outline text="Horarios de Atención">
-        <outline text="Lunes a Viernes de 9 a 13hs y de 15 a 19hs"/>
-        <outline text="Sábados de 9 a 13hs"/>
-      </outline>
-    </outline>
-    <outline text="Sucursal Servicio Técnico Esteco 1080 - Salta">
-      <outline text="Horarios de Atención">
-        <outline text="Lunes a Viernes de 9 a 13hs y de 14 a 18hs"/>
-        <outline text="Sábados de 8:30 a 12:30hs"/>
-      </outline>
+      
     </outline>
   </body>
 </opml>

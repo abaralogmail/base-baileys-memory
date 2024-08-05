@@ -3,6 +3,7 @@ const QRPortalWeb = require('@bot-whatsapp/portal')
 const BaileysProvider = require('@bot-whatsapp/provider/baileys')
 const JsonFileAdapter = require('@bot-whatsapp/database/json')
 const sendBulkMessages = require('./mensajes/sendBulkMessages');
+const { chatWithAssistant } = require('./mensajes/Assistant');
 
 const { run, executeNotionAssistant } = require('./mensajes/logica');
 //const { chatWithAssistant } = require('./mensajes/Assistant');
@@ -28,20 +29,21 @@ const isWithinRestrictedHours = () => {
 
 const flowNotionAssistant = addKeyword(['notion', 'database'])
     .addAction(async (ctx, { flowDynamic }) => {
+        if (ctx.body.toLowerCase() !== 'notion') {
         try {
             const response = await executeNotionAssistant(ctx);
             flowDynamic(response);
         } catch (error) {
             console.error('Error executing Notion Assistant:', error);
             flowDynamic('There was an error processing your request with Notion Assistant.');
-        }
+        }}
     });
 
 const flowEnviarMensaje = addKeyword(['enviar mensaje'])
     .addAction(async (ctx, { flowDynamic, provider, gotoFlow }) => {
         if (ctx.body.toLowerCase() !== 'enviar mensaje') return gotoFlow(flowPrincipal);
-        const numero = '5493812010781';
-        const mensaje = 'Este es un mensaje de prueba desde MariaDono';
+    //    const numero = '5493812010781';
+      //  const mensaje = 'Este es un mensaje de prueba desde MariaDono';
 
         try {
             await sendBulkMessages('./mensajes/Conexion - sendBulkMessages.xlsx', provider);
@@ -141,7 +143,7 @@ const flowPrincipal = addKeyword(EVENTS.WELCOME)
       //          const newHistory = (state.getMyState()?.history ?? [])
         //        newHistory.push({ role: 'user', content: ctx.body })
 
-                const largeResponse = await run(ctx, newHistory)
+                const largeResponse = await chatWithAssistant(ctx, newHistory)
                 console.log(`[RESPONSE]:`, largeResponse);
 
                 const chunks = largeResponse.split(/(?<!\d)\.\s+/g);

@@ -19,12 +19,12 @@ async function sendBulkMessages(excelFilePath, provider) {
                 console.log(`Message sent to ${row.telefono}`);
                 
                 // Delay between messages (e.g., 5 seconds)
-                await delay(5000);
+                await delay(60000);
 
                 // Take a break every 10 messages
                 if ((i + 1) % 10 === 0) {
                     console.log('Taking a break...');
-                    await delay(60000); // 1 minute break
+                    await delay(600000); // 1 minute break
                 }
             } catch (error) {
                 console.error(`Failed to send message to ${row.telefono}:`, error);

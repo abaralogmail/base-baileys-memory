@@ -1,0 +1,281 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875107150@s.whatsapp.net',
+    fromMe: false,
+    id: 'A1F7EF0CE92D4D1CF2EF1901FD9F5AF0',
+    participant: undefined
+  },
+  messageTimestamp: 1722865197,
+  pushName: 'SanTiiNo 🍀🍀🍀',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/33524672_1274758706821591_4053567149640214428_n.enc?ccb=11-4&oh=01_Q5AaIHrolQuxiO4LD5OqOYodX8Ngb3mK6ug5d5SHbqMk1PN5&oe=66D84E7A&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 10,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/33524672_1274758706821591_4053567149640214428_n.enc?ccb=11-4&oh=01_Q5AaIHrolQuxiO4LD5OqOYodX8Ngb3mK6ug5d5SHbqMk1PN5&oe=66D84E7A&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__445d034e-5f86-41d0-b045-4e66f9ee5352',
+  from: '5493875107150'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875107150@s.whatsapp.net',
+    fromMe: false,
+    id: '6368688AA0B4E8797DE0002453079A69',
+    participant: undefined
+  },
+  messageTimestamp: 1722865344,
+  pushName: 'SanTiiNo 🍀🍀🍀',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/32280711_837119885277549_4464360204241994834_n.enc?ccb=11-4&oh=01_Q5AaIH-QurAEv1y8C5YIihra8UTWU7U_Tw8AugZHrLvSLanc&oe=66D83C29&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 5,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/32280711_837119885277549_4464360204241994834_n.enc?ccb=11-4&oh=01_Q5AaIH-QurAEv1y8C5YIihra8UTWU7U_Tw8AugZHrLvSLanc&oe=66D83C29&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__b6006f9e-6202-495c-a813-28e042325092',
+  from: '5493875107150'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875107150@s.whatsapp.net',
+    fromMe: false,
+    id: '83E8E80DEDE1BC79CF46503E5540C294',
+    participant: undefined
+  },
+  messageTimestamp: 1722865552,
+  pushName: 'SanTiiNo 🍀🍀🍀',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/14754137_1655255785263670_5471256567130105007_n.enc?ccb=11-4&oh=01_Q5AaICte7Ad7Hx6wGwHY7_8M1R1KBzldgeRuNr9K1B1ufa2s&oe=66D845D3&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 15,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/14754137_1655255785263670_5471256567130105007_n.enc?ccb=11-4&oh=01_Q5AaICte7Ad7Hx6wGwHY7_8M1R1KBzldgeRuNr9K1B1ufa2s&oe=66D845D3&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__d8fe7461-424c-423a-9e37-a80b357e373a',
+  from: '5493875107150'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874629999@s.whatsapp.net',
+    fromMe: false,
+    id: '29F89894C5821B6B709B37F52B6118E3',
+    participant: undefined
+  },
+  messageTimestamp: 1722865753,
+  pushName: 'Francisco Roncal',
+  broadcast: false,
+  message: Message {
+    conversation: 'Perfecto Julieta gracias por la info',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Perfecto Julieta gracias por la info',
+  from: '5493874629999'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e85cf00-ff27-416b-ab39-a5a0ea8a8536',
+  keyword: 'key_4454693e-460d-4735-97bb-4cffb451444f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9e8479690853d0bef21a68d7e718f890'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874629999@s.whatsapp.net',
+    fromMe: false,
+    id: '1131A0D649D735C446FF79EB070044E8',
+    participant: undefined
+  },
+  messageTimestamp: 1722865763,
+  pushName: 'Francisco Roncal',
+  broadcast: false,
+  message: Message {
+    conversation: 'Consulta ese es el único horario por el momento?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Consulta ese es el único horario por el momento?',
+  from: '5493874629999'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e85cf00-ff27-416b-ab39-a5a0ea8a8536',
+  keyword: 'key_4454693e-460d-4735-97bb-4cffb451444f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9e8479690853d0bef21a68d7e718f890'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874629999@s.whatsapp.net',
+    fromMe: false,
+    id: '9CA2241D11B8D1DBCC801924D2CA4B1E',
+    participant: undefined
+  },
+  messageTimestamp: 1722865771,
+  pushName: 'Francisco Roncal',
+  broadcast: false,
+  message: Message {
+    conversation: 'Porque trabajo hasta las 17hs',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Porque trabajo hasta las 17hs',
+  from: '5493874629999'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e85cf00-ff27-416b-ab39-a5a0ea8a8536',
+  keyword: 'key_4454693e-460d-4735-97bb-4cffb451444f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9e8479690853d0bef21a68d7e718f890'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493875107150@s.whatsapp.net',
+    fromMe: false,
+    id: '87E90445DCCEABE82C836DA0C1554CF4',
+    participant: undefined
+  },
+  messageTimestamp: 1722865819,
+  pushName: 'SanTiiNo 🍀🍀🍀',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/11881113_375509562245361_6730489175380887592_n.enc?ccb=11-4&oh=01_Q5AaIJ65tYlnN7VXoMPLsyWWduFwgjkTq3X7j732ktevRqxQ&oe=66D83D87&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 5,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/11881113_375509562245361_6730489175380887592_n.enc?ccb=11-4&oh=01_Q5AaIJ65tYlnN7VXoMPLsyWWduFwgjkTq3X7j732ktevRqxQ&oe=66D83D87&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__dba4e7e1-bb94-48bf-9959-b3a7f5291c81',
+  from: '5493875107150'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493874629999@s.whatsapp.net',
+    fromMe: false,
+    id: '4759F54191AD36BF496BBF187B60CF87',
+    participant: undefined
+  },
+  messageTimestamp: 1722865968,
+  pushName: 'Francisco Roncal',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bien gracias a vos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Bien gracias a vos',
+  from: '5493874629999'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e85cf00-ff27-416b-ab39-a5a0ea8a8536',
+  keyword: 'key_4454693e-460d-4735-97bb-4cffb451444f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9e8479690853d0bef21a68d7e718f890'
+}

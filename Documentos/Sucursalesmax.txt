@@ -10,37 +10,47 @@
         <outline text="Casa Central - Alberdi 1079 - Salta">
           <outline text="Lunes a Viernes: 8:00 - 20:00 (horario corrido)" />
           <outline text="Sábados: 8:30 - 12:30" />
+          <outline text="Teléfono: 03875218221" />
         </outline>
         <outline text="Salta I - Zuviría 1527 - Salta">
           <outline text="Lunes a Viernes: 8:00 - 12:00 y 16:00 - 20:00" />
           <outline text="Sábados: 8:30 - 12:30" />
+          <outline text="Teléfono: 03875219215" />
         </outline>
         <outline text="Metán - Las Heras 206 - Metán - Salta">
           <outline text="Lunes a Viernes: 8:30 - 12:30 y 15:00 - 19:00" />
           <outline text="Sábados: 8:30 - 12:30" />
+          <outline text="Teléfono: 03876621962" />
         </outline>
         <outline text="Jujuy - Av. El Éxodo 743 - S.S. de Jujuy">
           <outline text="Lunes a Viernes: 8:00 - 12:00 y 16:00 - 20:00" />
           <outline text="Sábados: 8:30 - 12:30" />
+          <outline text="Teléfono: 03885712603" />
         </outline>
         <outline text="Tucumán - Don Bosco esq Lucas Córdoba - San Miguel de Tucumán">
           <outline text="Lunes a Viernes: 8:00 - 19:00 (horario corrido)" />
           <outline text="Sábados: 8:30 - 13:00" />
+          <outline text="Teléfono: 03815908557" />
+
         </outline>
         <outline text="MAHLE - Av. Chile 1517 - Salta">
           <outline text="Lunes a Viernes: 9:00 - 13:00 y 15:00 - 19:00" />
           <outline text="Sábados: 9:00 - 13:00" />
+          <outline text="Teléfono: 03874664047" />
+
         </outline>
       </outline>
 
       <outline text="Centros de Capacitación">
-        <outline text="Centro de Capacitación Norte - Av. Libertad 123 - Salta">
-          <outline text="Cursos de Lunes a Viernes: 9:00 - 18:00" />
-          <outline text="Sábados: 9:00 - 13:00" />
+        <outline text="1er Piso - Alberdi 1079 - Salta">
+          <outline text="Cursos de Lunes a Viernes: 8:00 - 20:00 (horario corrido)" />
+          <outline text="Sábados: 8:30 - 12:30" />
+          <outline text="Teléfono: 03875218575" />
         </outline>
-        <outline text="Centro de Capacitación Sur - Calle Mitre 456 - San Miguel de Tucumán">
-          <outline text="Cursos de Lunes a Viernes: 9:00 - 17:00" />
-          <outline text="Sábados: 9:00 - 12:00" />
+        <outline text="1er Piso- Don Bosco esq Lucas Córdoba - San Miguel de Tucumán">
+          <outline text="Cursos de Lunes a Viernes: 8:00 - 19:00 (horario corrido)" />
+          <outline text="Sábados: 8:30 - 13:00" />
+          <outline text="Teléfono: 03815908557" />
         </outline>
       </outline>
       
@@ -48,6 +58,8 @@
         <outline text="Esteco 1080 - Salta">
           <outline text="Lunes a Viernes: 9:00 - 13:00 y 14:00 - 18:00" />
           <outline text="Sábados: 8:30 - 12:30" />
+          <outline text="Teléfono: 03875219511" />
+
         </outline>
       </outline>
       
